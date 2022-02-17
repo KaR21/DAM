@@ -1,0 +1,15 @@
+SELECT
+FROM
+WHERE
+ORDER BY
+-------------------------------------
+SELECT
+FROM
+GROUP BY
+HAVING
+ORDER BY
+-------------------------------------taldeko baldintza
+------------------------------------------------------------------------
+SELECT
+FROM A INNER JOIN B
+ON A.A1 = B.B4

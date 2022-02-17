@@ -1,0 +1,25 @@
+Some of The Most Important SQL Commands
+
+   SELECT - extracts data from a database
+	SELECT * FROM Customers; (ADIBIDEZ: select all from the Customers table.)
+	SELECT City FROM Customers; (ADIBIDEZ: select the City column from the Customers table.)
+	SELECT DISTINCT Country FROM Customers; (ADIBIDEZ: Select all the different values from the Country column in the Customers table.)
+   
+   WHERE - to select all the records from a column that has the expecific value
+	Select all records where the City column has the value "Berlin":
+		SELECT * FROM Customers;
+		WHERE City = 'Berlin';	
+	Select all records where the City column has not the value "Berlin":
+		SELECT * FROM Customers;
+		WHERE NOT City = 'Berlin';
+	
+   UPDATE - updates data in a database
+   DELETE - deletes data from a database
+   INSERT INTO - inserts new data into a database
+   CREATE DATABASE - creates a new database
+   ALTER DATABASE - modifies a database
+   CREATE TABLE - creates a new table
+   ALTER TABLE - modifies a table
+   DROP TABLE - deletes a table
+   CREATE INDEX - creates an index (search key)
+   DROP INDEX - deletes an index
