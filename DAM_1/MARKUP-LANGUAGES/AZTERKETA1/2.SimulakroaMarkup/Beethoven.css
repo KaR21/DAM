@@ -1,0 +1,108 @@
+html{
+    background-color:  #B6AE90;
+}
+
+#Titulua{
+    color: #e56717;
+    font-size: 100pt;
+    text-align: center;
+    text-shadow: 3px 3px white;
+}
+
+#Ebaluaketa{
+    color: #c8c2a7;
+    font-size: 90pt;
+    text-align: center;
+    text-shadow: 3px 3px black;
+}
+
+#PortadaArgazki{
+   text-align: center;
+}
+
+.BeethovenMain{
+    display: flex;
+    flex-direction: row;
+}
+
+#Menua div img{
+    margin-right: 10px;
+}
+
+#Menua div p a{
+    font-family:Monotype Corsiva;
+    color:  #7D775C ;
+    font-size: 18pt;
+    text-decoration: none;
+}
+
+#Menua div p a{
+    text-decoration: none;
+}
+
+#Menua div{
+    margin: 50px 20px 50px 20px;
+}
+
+#Menua div p {
+  margin-left:10px;
+}
+
+#Menua div p:hover{
+    font-size: 19pt;
+}
+
+#Argazkia img{
+    border-radius: 0px 0px 0px 30px;
+    margin-top: 50px;
+}
+
+#Info{
+    display: flex;
+    flex-direction: column;
+    background-image: url("./Beethoven_irudiak/papel.jpg");
+    width: 650px;
+    height: 750px;
+    margin: 0 auto;
+    margin-top: 21px;
+    
+}
+
+#Title{
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 40px;
+    font-family: Monotype Corsiva;
+    color: #7D775C;
+    margin-bottom: 20px;
+}
+
+#Parrafoa{
+    text-align:justify;
+    font-size: 15pt;
+    font-family: Arial;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#Parrafoa p::first-letter{
+    font-size: 20pt;
+    font-family: Book Antiqua;
+    color: #7D775C ;
+}
+
+#Parrafoa2 p::first-letter{
+    font-size: 20pt;
+    font-family: Book Antiqua;
+    color: #7D775C ;
+}
+
+#Parrafoa2{
+    text-align:justify;
+    font-size: 15pt;
+    font-family: Arial;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+}

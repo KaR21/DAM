@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="index.html"?>
+<agenda>
+	<contacto zkia='1'>
+		<nombre>Iker</nombre>
+		<apellido>Arruti</apellido>
+		<direccion>Kamiñaspi 3, Ondarroa</direccion>
+		<edad>24</edad>
+		<peso>80,7</peso>
+		<telefonos>
+			<telcasa></telcasa>
+			<telmovil>62334455</telmovil>
+			<teltrabajo>33445566</teltrabajo>
+			<teltrabajo>33445567</teltrabajo>
+			<teltrabajo>33445568</teltrabajo>
+		</telefonos>
+	</contacto >
+	<contacto zkia='2'>
+		<nombre>Pedro</nombre>
+		<apellido>Akarregi</apellido>
+		<direccion>Beheko kalea 33 Lekeitio</direccion>
+		<edad>52</edad>
+		<peso>85</peso>
+		<telefonos>
+			<telcasa>44332211</telcasa>
+			<telmovil>65443322</telmovil>
+			<telmovil>65443323</telmovil>
+			<telmovil>60043322</telmovil>
+			<telmovil>65499322</telmovil>
+			<teltrabajo></teltrabajo>
+		</telefonos>
+	</contacto >
+	<contacto zkia='3'>
+		<nombre>Itziar</nombre>
+		<apellido>Alduntzi</apellido>
+		<direccion>Zehar kalea Leitza</direccion>
+		<edad>40</edad>
+		<peso>66,8</peso>
+		<telefonos>
+			<telcasa>44332211</telcasa>
+			<telmovil></telmovil>
+			<teltrabajo>60054433</teltrabajo>
+			<teltrabajo>60054434</teltrabajo>
+		</telefonos>
+	</contacto>
+	<contacto zkia='4'>
+		<nombre>Miren</nombre>
+		<apellido>Gisasola</apellido>
+		<direccion>San Ignacio 2 Elgoibar</direccion>
+		<edad>15</edad>
+		<peso>50,6</peso>
+		<telefonos>
+			<telcasa>44332211</telcasa>
+			<telmovil>60043322</telmovil>
+		</telefonos>
+	</contacto>
+</agenda>
+

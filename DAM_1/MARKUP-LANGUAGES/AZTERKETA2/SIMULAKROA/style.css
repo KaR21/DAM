@@ -1,0 +1,21 @@
+#citaBat{
+    border: 2px solid rgb(255, 1, 1);
+    border-radius: 50px 50px 50px 50px;
+	margin-left:20px;
+	margin-right:20px;
+	background-color:white;
+	margin-bottom:30px;
+}
+p{
+	margin-left:20px;
+}
+#osoa{
+    background-color:green;
+	width:70%;
+	margin:Auto;
+}
+
+h1{
+	margin-left:20px;
+	color:white;
+}

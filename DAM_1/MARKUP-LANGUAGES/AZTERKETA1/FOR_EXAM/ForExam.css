@@ -1,0 +1,26 @@
+.fixed{
+    background-image: url("tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+.scroll{
+    background-image: url("tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+
+p::first-letter {
+    font-size: 200%;
+    color: #0099ff;
+}
+
+img {
+    float: left;
+}
+  
+p.clear {
+    clear: left;
+}

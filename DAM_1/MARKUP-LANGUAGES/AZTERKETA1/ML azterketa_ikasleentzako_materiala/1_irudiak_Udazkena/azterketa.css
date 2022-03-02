@@ -1,0 +1,80 @@
+body{
+    margin-top: 45px;
+    margin-left: 30%;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+    margin-bottom: 40px;
+}
+#main ul{
+    display: flex;
+    list-style-type: none;
+    color: #880;
+    padding: 20px;
+    background-color: #7d7;
+    height: 25px;
+}
+#main ul li a:hover{
+    font-size: 18pt;
+}
+#main ul li{
+    margin-right: 21px;
+    padding-right: 5px;
+    border-right: 2px solid black;
+    color: black;
+}
+
+#main ul li a{
+    text-decoration: none;
+}
+
+#testua {
+    display: flex;
+}
+#testua img {
+    margin-right: 50px;
+}
+#text{
+    font-size: 12pt;
+    font-family: Arial;
+    margin-left: 50px;
+}
+
+#text2{
+    font-size: 12pt;
+    font-family: Arial;
+    
+    margin-left: 50px;
+}
+#testua2 {
+    display: flex;
+}
+#testua2 img {
+    margin-left: 50px;
+}
+
+.active {
+	color: red;
+}
+
+#azpikoa {
+    background-color: #f80;
+    text-align: end;
+    width: 900px;
+}
+
+#osoa2{
+    background-image: url("udazkena.gif");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#osoa{
+    background-image: url("UDAZKENA2.png");
+    background-repeat: no-repeat;
+    width: 900px;
+    background-position: right;
+}

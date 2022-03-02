@@ -1,0 +1,25 @@
+table, td, th {
+  border: 1px solid black;
+}
+img{
+	width:170px;
+	height:150px;
+	border-radius:5px 5px 5px 5px;
+	border: 1px solid black;
+	margin-left:50px;
+}
+#osoa{
+	  display:flex;
+	  justify-content:center;
+}
+
+h1{
+	font-size:70px;
+}
+
+h3{
+	font-size:20px;
+}
+#divh{
+	  margin-left:220px;
+}

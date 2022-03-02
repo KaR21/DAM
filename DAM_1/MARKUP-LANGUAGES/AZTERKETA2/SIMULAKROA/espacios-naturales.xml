@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/xsl" href="espaciosnaturalesStyle.xsl"?>
+<rows num="54">
+    <row num="1">
+        <documentname>Embalse de Maroño</documentname>
+        <turismdescription>El embalse de Maroño, enclavado en la localidad del mismo nombre, perteneciente al municip...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;El embalse de Maro&amp;amp;ntilde o, enclavado en la localidad del mismo nombre, perteneciente al municipio de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/ayala-aiara/aa30-12375/es/&amp;quot;&amp;gt;Ayala&amp;lt;/a&amp;gt;, se encuentra protegido por la &amp;lt;strong&amp;gt;sierra S&amp;amp;aacute lvada&amp;lt;/strong&amp;gt;, cordillera de escarpadas laderas y verticales roquedos que se eleva sobre este valle del norte de &amp;amp;Aacute lava.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Este bello paraje natural cuenta con amplios espacios abiertos rodeados de verdes praderas y un excelente embalse de aguas que abastece a localidades vecinas.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Cada a&amp;amp;ntilde o, la presa acoge a numerosos amantes de la pesca. La especie m&amp;amp;aacute s abundante es el lucio, aunque tambi&amp;amp;eacute n se pueden capturar algunos ejemplares de trucha. La pesca en este embalse est&amp;amp;aacute  abierta desde marzo a septiembre. Adem&amp;amp;aacute s, este paraje sirve de refugio para las &amp;lt;strong&amp;gt;aves migratorias&amp;lt;/strong&amp;gt; que por condiciones meteorol&amp;amp;oacute gicas adversas no pueden sortear la sierra S&amp;amp;aacute lvada.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Adem&amp;amp;aacute s, su espl&amp;amp;eacute ndido entorno boscoso, compuesto por pinares, robles y arbustos, nos permite disfrutar de una agradable jornada en &amp;lt;strong&amp;gt;uno de los entornos naturales m&amp;amp;aacute s hermosos de &amp;amp;Aacute lava&amp;lt;/strong&amp;gt;, que, a su vez, ofrece en las inmediaciones otras bellas estampas como el del Ca&amp;amp;ntilde &amp;amp;oacute n de Delika, lugar donde &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/rutas/mirador-salto-nervion/aa30-12375/es/&amp;quot;&amp;gt;nace el r&amp;amp;iacute o Nervi&amp;amp;oacute n&amp;lt;/a&amp;gt; salvando m&amp;amp;aacute s de doscientos metros de desnivel.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Maroño | Diseminado</locality>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Pantanos</naturetype>
+        <latitudelongitude>43.0468126377076,-3.05986404418945</latitudelongitude>
+        <latwgs84>43.0468126377076</latwgs84>
+        <lonwgs84>-3.05986404418945</lonwgs84>
+        <municipality>Ayala/Aiara</municipality>
+        <municipalitycode>010</municipalitycode>
+        <territory>Araba/Álava</territory>
+        <territorycode>01</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/embalse-de-marono/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000008882_g1_rec_turismo/es_8882/8882-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/es_8882/data/8882_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/r01Index/0000008882_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/opendata/0000008882_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="2">
+        <documentname>Embalse de Ullíbarri-Gamboa</documentname>
+        <turismdescription>Emplazado en el municipio alavés de Arrazua-Ubarrundia, el embalse de Ull&amp;amp;iacute...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;Emplazado en el municipio alav&amp;amp;eacute s de&amp;amp;nbsp &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/arrazua-ubarrundia/aa30-12375/es/&amp;quot;&amp;gt;Arrazua-Ubarrundia&amp;lt;/a&amp;gt;, el embalse de&amp;amp;nbsp &amp;lt;strong&amp;gt;Ull&amp;amp;iacute barri-Gamboa&amp;lt;/strong&amp;gt;&amp;amp;nbsp adem&amp;amp;aacute s de abastecer de agua a Vitoria-Gasteiz y a los alrededores de Bilbao, sirve como &amp;amp;aacute rea de esparcimiento, pues es uno de los lugares m&amp;amp;aacute s frecuentados por los alaveses en verano.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Este espectacular paraje cuenta con dos estupendas playas reconocidas con la&amp;amp;nbsp &amp;lt;strong&amp;gt;bandera azul&amp;lt;/strong&amp;gt;, por la calidad de su entorno y los servicios que ofrecen: &amp;lt;strong&amp;gt;Landa&amp;lt;/strong&amp;gt; y &amp;lt;strong&amp;gt;Garaio&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Tambi&amp;amp;eacute n hay un albergue situado en la&amp;amp;nbsp &amp;lt;strong&amp;gt;isla de Zuaza&amp;lt;/strong&amp;gt;&amp;amp;nbsp que posee excelentes instalaciones y servicios. El visitante tambi&amp;amp;eacute n encontrar&amp;amp;aacute  numerosas zonas de ba&amp;amp;ntilde o y &amp;amp;aacute reas de recreo que disponen de mesas, asadores, juegos infantiles... Lugares todos ellos id&amp;amp;oacute neos para pasar un d&amp;amp;iacute a en familia y disfrutar de la naturaleza.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Por otra parte, los amantes del deporte podr&amp;amp;aacute n realizar rutas por los alrededores del embalse, tanto a pie como en bicicleta. El pantano de&amp;amp;nbsp Ull&amp;amp;iacute barri-Gamboa&amp;amp;nbsp re&amp;amp;uacute ne, adem&amp;amp;aacute s, las mejores condiciones para la pr&amp;amp;aacute ctica de todo tipo de &amp;lt;strong&amp;gt;actividades y deportes acu&amp;amp;aacute ticos&amp;lt;/strong&amp;gt; (remo, pirag&amp;amp;uuml ismo, windsurf...), ya que cuenta con dos clubes n&amp;amp;aacute uticos y embarcaderos.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Pantanos</naturetype>
+        <latitudelongitude>42.9260115266427,-2.56977081298828</latitudelongitude>
+        <latwgs84>42.9260115266427</latwgs84>
+        <lonwgs84>-2.56977081298828</lonwgs84>
+        <municipality>Arratzua-Ubarrundia</municipality>
+        <municipalitycode>008</municipalitycode>
+        <territory>Araba/Álava</territory>
+        <territorycode>01</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/embalse-de-ullibarri-gamboa/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000008805_g1_rec_turismo/es_8805/8805-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/es_8805/data/8805_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/r01Index/0000008805_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/opendata/0000008805_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="3">
+        <documentname>Embalse de Urkulu</documentname>
+        <turismdescription>El embalse de Urkulu se halla en el interior del territorio histórico de Gipuzkoa, a pocos...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;El embalse de Urkulu se halla en el interior del territorio hist&amp;amp;oacute rico de Gipuzkoa, a pocos kil&amp;amp;oacute metros de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/aretxabaleta/aa30-12375/es/&amp;quot;&amp;gt;Aretxabaleta&amp;lt;/a&amp;gt; y a los pies del monte Kurtzebarri (1.146 m).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Se trata de uno de los principales atractivos naturales del municipio, pues ofrece al visitante un entorno realmente apropiado para relajarse y &amp;lt;strong&amp;gt;disfrutar de la naturaleza&amp;lt;/strong&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Adem&amp;amp;aacute s, es un lugar propicio para practicar &amp;lt;strong&amp;gt;deporte al aire libre&amp;lt;/strong&amp;gt;.&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Una &amp;lt;strong&amp;gt;v&amp;amp;iacute a verde&amp;lt;/strong&amp;gt; de 6,5 km rodea el pantano, y en &amp;amp;eacute l se han habilitado varios espacios para hacer gimnasia, con paneles explicativos que indican c&amp;amp;oacute mo realizar algunos ejercicios. En el embalse, tambi&amp;amp;eacute n se ofrece un servicio de alquiler de piraguas.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;Son muchas las personas que acuden hasta aqu&amp;amp;iacute , sobre todo, durante los fines de semana. Adem&amp;amp;aacute s, este enclave natural tambi&amp;amp;eacute n sirve de refugio a diversas especies de aves.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Por otra parte, cabe destacar que el agua de este embalse es utilizada para abastecer a algunas localidades colindantes.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Pantanos</naturetype>
+        <latitudelongitude>43.019567,-2.476983</latitudelongitude>
+        <latwgs84>43.019567</latwgs84>
+        <lonwgs84>-2.476983</lonwgs84>
+        <municipality>Aretxabaleta</municipality>
+        <municipalitycode>013</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/embalse-de-urkulu/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000005342_g1_rec_turismo/es_5342/5342-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/es_5342/data/5342_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/r01Index/0000005342_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/opendata/0000005342_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="4">
+        <documentname>Embalse de Urrúnaga</documentname>
+        <turismdescription>El embalse de Urrúnaga está ubicado a caballo entre Álava y Bizkaia, rodeado de un espectacular p...</turismdescription>
+        <turismdescription>El embalse de Urrúnaga está ubicado a caballo entre Álava y Bizkaia, rodeado de un espectacular paisaje, con el monte Gorbeia (1.481 m) al fondo. Pertenece en su mayor parte al municipio alavés de Legutiano, aunque parte de la presa se encuentra en Otxandio.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Este espléndido enclave es uno de los principales atractivos turísticos de Legutiano, lo que ha favorecido el desarrollo de numerosas actividades relacionadas con el ocio, el deporte y el descanso. Por un lado, en la orilla del embalse se han habilitado dos parques, el de Sorgimendi y el de Zabalain, que disponen de mesas, parrillas, fuentes, juegos infantiles... Por otro, hacia el norte, se ubica el Campo Internacional de Regatas, que también funciona como escuela de regatas.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El sector de la hostelería se ha desarrollado en buen medida gracias al embalse. Legutiano cuenta con numerosos bares y restaurantes, mientras que en otras localidades del municipio se pueden encontrar agroturismos (Elosu), marisquerías (Urrúnaga), etc.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En la parte vizcaína, es posible realizar una ruta que bordea parte del embalse. Un poco antes del puente de Gomilaz, parte un sendero que nos lleva hasta el barrio Mekoleta, pasando por el monte San Bernabé, donde encontraremos un antiguo nevero rehabilitado en 1999. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Asimismo, el embalse de Urrúnaga llama especialmente la atención por el gran número de aves y comunidades acuáticas que se concentran en este hábitat. Por último, destacar que numerosos pescadores acuden al embalse para capturar los mejores ejemplares.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Mekoleta  Legutio  Urrunaga  Elosu</locality>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Pantanos</naturetype>
+        <municipality>Otxandio Legutio Legutio Legutio</municipality>
+        <municipalitycode>072 058 058 058</municipalitycode>
+        <territory>Bizkaia Araba/Álava Araba/Álava Araba/Álava</territory>
+        <territorycode>48 01 01 01</territorycode>
+        <country>España España España España</country>
+        <countrycode>108 108 108 108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/embalse-de-urrunaga/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000008842_g1_rec_turismo/es_8842/8842-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/es_8842/data/8842_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/r01Index/0000008842_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/opendata/0000008842_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="5">
+        <documentname>La Arboleda</documentname>
+        <turismdescription>Convertido hoy en día en espacio de ocio y esparcimiento, La Arboleda fue un pueblo minero donde ...</turismdescription>
+        <turismdescription>Convertido hoy en día en espacio de ocio y esparcimiento, La Arboleda fue un pueblo minero donde se extraía el mineral de hierro. Las antiguas minas son ahora embalses artificiales rodeadas de un entorno verde, ideales para la pesca, aunque no están recomendadas para el baño.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El antiguo poblado minero se extiende por los montes de Triano. Se sitúa en la parte alta del municipio del Valle de Trápaga-Trapagaran, a 7,5 km del centro urbano y se accede por un tortuoso camino. Es preferible subir por el funicular hasta el barrio de La Reineta. Este medio de transporte, que data de 1926, fue muy utilizado en la época de la extracción minera. Hoy por hoy, el viaje en el funicular permite disfrutar de preciosas vistas sobre el Abra de Bilbao.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Desde La Reineta hay tan sólo un kilómetro hasta La Arboleda. Este paraje cuenta con varias zonas recreativas, instalaciones deportivas (campo de fútbol, frontón...), un albergue de la Diputación de Bizkaia y el Centro de Interpretación Medio Ambiental Peñas Negras, donde ponen a disposición del visitante una serie de itinerarios balizados para conocer y disfrutar tanto del entorno natural como de los restos de la explotación minera. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En el pueblo, hay numerosos restaurantes donde poder degustar la gastronomía de la zona. Es muy típico comer un buen plato de alubias.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>La Arboleda/Zugaztieta</locality>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Pantanos</naturetype>
+        <latitudelongitude>43.284928,-3.05386</latitudelongitude>
+        <latwgs84>43.284928</latwgs84>
+        <lonwgs84>-3.05386</lonwgs84>
+        <municipality>Valle de Trápaga-Trapagaran</municipality>
+        <municipalitycode>080</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/la-arboleda/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000009596_g1_rec_turismo/es_9596/9596-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/es_9596/data/9596_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/r01Index/0000009596_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/opendata/0000009596_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="6">
+        <documentname>Piscinas fluviales de Espejo</documentname>
+        <turismdescription>Las piscinas fluviales de Espejo se hallan en el territorio histórico de Álava, en el municipio d...</turismdescription>
+        <turismdescription>Las piscinas fluviales de Espejo se hallan en el territorio histórico de Álava, en el municipio de Valdegovía, dentro de la Cuadrilla de Añana.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Este bello entorno, emplazado en el río Omecillo, se convierte en lugar de descanso para muchos lugareños y visitantes durante los meses de verano. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Cuenta con amplios aparcamientos a ambos lados del río, una zona de baño y un área de recreo con arbolado que dispone de asadores, mesas, bancos e instalaciones infantiles para el disfrute de los más pequeños. Además, en el río también existen tramos preparados para los aficionados al piragüismo.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Espejo</locality>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Rios</naturetype>
+        <latitudelongitude>42.809638,-3.046388</latitudelongitude>
+        <latwgs84>42.809638</latwgs84>
+        <lonwgs84>-3.046388</lonwgs84>
+        <municipality>Valdegovía/Gaubea</municipality>
+        <municipalitycode>055</municipalitycode>
+        <territory>Araba/Álava</territory>
+        <territorycode>01</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/piscinas-fluviales-de-espejo/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000008904_g1_rec_turismo/es_8904/8904-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/es_8904/data/8904_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/r01Index/0000008904_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/opendata/0000008904_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="7">
+        <documentname>Piscinas fluviales de Fresnedo</documentname>
+        <turismdescription>Las piscinas fluviales de Fresnedo se sitúan en la entrada de la localidad alavesa de Santa Cruz ...</turismdescription>
+        <turismdescription>Las piscinas fluviales de Fresnedo se sitúan en la entrada de la localidad alavesa de Santa Cruz de Campezo, a un escaso kilómetro del casco urbano y junto a la A-132, carretera que une Vitoria-Gasteiz y Estella.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Ese paraje se halla a orillas del río Izki, muy cerca del Parque Natural del mismo nombre. Cuenta con un área de esparcimiento dividido en dos zonas situadas a ambos lados del río y conectadas mediante un puente de madera. Este área de recreo está equipado con mesas, asadores, fuentes, una cancha de baloncesto y juegos infantiles, que permiten disfrutar de una jornada de lo más agradable en contacto con la naturaleza.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Durante los meses de verano, se instala un bar donde se sirven comidas. Además, también dispone de otros servicios como baños y duchas.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Santa Cruz de Campezo/Santikurutze Kanpezu</locality>
+        <marks>Montes y Valles vascos</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Rios</naturetype>
+        <latitudelongitude>42.6762516761553,-2.37030029296875</latitudelongitude>
+        <latwgs84>42.6762516761553</latwgs84>
+        <lonwgs84>-2.37030029296875</lonwgs84>
+        <municipality>Campezo/Kanpezu</municipality>
+        <municipalitycode>017</municipalitycode>
+        <territory>Araba/Álava</territory>
+        <territorycode>01</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/piscinas-fluviales-de-fresnedo/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000008911_g1_rec_turismo/es_8911/8911-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/es_8911/data/8911_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/r01Index/0000008911_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/opendata/0000008911_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="8">
+        <documentname>Playa Santiago de Deba</documentname>
+        <turismdescription>La playa de Santiago de Deba se halla al oeste del litoral guipuzcoano, junto a la desembocadura ...</turismdescription>
+        <turismdescription>La playa de Santiago de Deba se halla al oeste del litoral guipuzcoano, junto a la desembocadura del río que lleva el nombre del municipio. Con 400 metros de longitud, comprende también la playa de Lapari, ocupando una superficie total de 80.000 m².&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;De fina arena dorada, es una playa de fuerte oleaje, pues se encuentra abierta al mar. Es ideal para dar largos paseos, bien por la orilla o bien por los tres paseos marítimos que la rodean.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Asimismo, todo aquel que decida acudir a esta hermosa playa podrá practicar actividades deportivas tales como surf, piragüismo o windsurf. En la playa de Deba se localiza una de las olas de mayor tamaño que podemos encontrar en la costa vasca, una derecha conocida como Sorgin-Zulo, de gran fuerza y que puede llegar a aguantar hasta los 5 metros. Su fondo de roca y arena la hace aún si cabe más peligrosa. En los días que no hay tanto mar los picos se suceden a lo largo de la playa y más cerca de la orilla, que en función de los fondos pueden dar buenas sesiones. Cuenta con un club de surf local.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.2983184172804,-2.354269509262167</latitudelongitude>
+        <latwgs84>43.2983184172804</latwgs84>
+        <lonwgs84>-2.354269509262167</lonwgs84>
+        <municipality>Deba</municipality>
+        <municipalitycode>029</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-santiago-de-deba/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003020_g1_rec_turismo/es_3020/3020-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/es_3020/data/3020_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/r01Index/0000003020_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/opendata/0000003020_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="9">
+        <documentname>Playa de Alkolea</documentname>
+        <turismdescription>Alkolea es una playa de rocas muy frecuentada por surfistas y por aficionados a la pesca submarin...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;Alkolea es una playa de rocas muy frecuentada por &amp;lt;strong&amp;gt;surfistas &amp;lt;/strong&amp;gt;y por aficionados a la pesca submarina.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Se trata de un arenal muy tranquilo, situado entre la punta de Alkolea y la explanada de Arbe, en una zona en la que puede disfrutarse de&amp;lt;strong&amp;gt; hermosas vistas de la costa guipuzcoana&amp;lt;/strong&amp;gt;. Su longitud es de 920 metros.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Mutriku</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.30762578068058,-2.3710132372955286</latitudelongitude>
+        <latwgs84>43.30762578068058</latwgs84>
+        <lonwgs84>-2.3710132372955286</lonwgs84>
+        <municipality>Mutriku</municipality>
+        <municipalitycode>056</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-alkolea/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000057741_g1_rec_turismo/es_57741/57741-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/es_57741/data/57741_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/r01Index/0000057741_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/opendata/0000057741_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="10">
+        <documentname>Playa de Antilla</documentname>
+        <turismdescription>La principal playa de Orio se encuentra en un entorno excepcional, junto a la desembocadura del O...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La principal playa de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/orio/aa30-12375/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Orio &amp;lt;/a&amp;gt;se encuentra en un entorno excepcional, junto a la desembocadura del Oria y al abrigo del monte Kukuarri, que desciende &amp;lt;strong&amp;gt;de forma abrupta hacia el mar.&amp;lt;/strong&amp;gt; &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Reformada en 1997, esta playa tiene 3.500 m&amp;amp;sup2  de superficie, y cuenta en sus inmediaciones con un hermoso parque con juegos y columpios, un camping y un paseo mar&amp;amp;iacute timo, adem&amp;amp;aacute s de tres restaurantes que ofrecen una oferta gastron&amp;amp;oacute mica de lo m&amp;amp;aacute s variada. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Asimismo, es un lugar muy frecuentado por los aficionados a la pesca y otros deportes acu&amp;amp;aacute ticos como el &amp;lt;strong&amp;gt;surf, el pirag&amp;amp;uuml ismo o el windsurf&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Cuenta con varias olas, destacando la izquierda de la playa junto al espig&amp;amp;oacute n, la cual empieza a romper los d&amp;amp;iacute as grandes. En la zona centro de la playa hay otros picos que rompen con mayor frecuencia, destacando la derecha sobre la izquierda. La playa cuenta con un club local. &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.288723,-2.127956</latitudelongitude>
+        <latwgs84>43.288723</latwgs84>
+        <lonwgs84>-2.127956</lonwgs84>
+        <municipality>Orio</municipality>
+        <municipalitycode>061</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-antilla/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003008_g1_rec_turismo/es_3008/3008-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/es_3008/data/3008_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/r01Index/0000003008_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/opendata/0000003008_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="11">
+        <documentname>Playa de Aritxatxu</documentname>
+        <turismdescription>La playa de Aritxatxu, situada en el municipio vizcaíno de Bermeo, forma una pequeñ...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Aritxatxu, situada en el municipio vizca&amp;amp;iacute no de Bermeo, forma una &amp;lt;strong&amp;gt;peque&amp;amp;ntilde a y atractiva cala &amp;lt;/strong&amp;gt;de arena dorada rodeada de grandes rocas. Est&amp;amp;aacute  en un entorno apacible y es muy visitada por los amantes del submarinismo. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Cuenta con duchas, papeleras, aseos, vestuarios y bar, as&amp;amp;iacute  como con servicio de socorristas y hondartzainas. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.428484,-2.737924</latitudelongitude>
+        <latwgs84>43.428484</latwgs84>
+        <lonwgs84>-2.737924</lonwgs84>
+        <municipality>Bermeo</municipality>
+        <municipalitycode>017</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-aritzatxu/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002983_g1_rec_turismo/es_2983/2983-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/es_2983/data/2983_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/r01Index/0000002983_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/opendata/0000002983_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="12">
+        <documentname>Playa de Armintza</documentname>
+        <turismdescription>Pequeño barrio pesquero del municipio de Lemoiz, un lugar con mucho encanto donde se suced...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;Peque&amp;amp;ntilde o &amp;lt;strong&amp;gt;barrio pesquero&amp;lt;/strong&amp;gt; del municipio de Lemoiz, un lugar con mucho encanto donde se suceden unas olas de lo m&amp;amp;aacute s curiosas. Los d&amp;amp;iacute as de swell medio hay una derecha que rompe en una zona de acantilados y s&amp;amp;oacute lo en marea media. Su acceso se debe hacer remando desde el peque&amp;amp;ntilde o puerto pesquero de la localidad. Los d&amp;amp;iacute as de &amp;lt;em&amp;gt;swell&amp;lt;/em&amp;gt; grande, hay una ola tipo &amp;lt;em&amp;gt;A-frame&amp;lt;/em&amp;gt; a la entrada del canal del puerto algo complicada de coger y donde se necesita un apoyo mar&amp;amp;iacute timo. Estos d&amp;amp;iacute as grandes en los que el mar est&amp;amp;aacute  desfasado, el puerto acoge una ola en el inicio del dique y rompe paralelo a &amp;amp;eacute l. Se trata de una derecha blanda ideal para los m&amp;amp;aacute s peque&amp;amp;ntilde os. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Con 250 metros de longitud, est&amp;amp;aacute  formada por piedras y arena gruesa y oscura. Como dato de inter&amp;amp;eacute s, cabe destacar que esta playa es muy frecuentada por los amantes del &amp;lt;strong&amp;gt;submarinismo y la pesca&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Armintza</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.43321809894,-2.898966690000634</latitudelongitude>
+        <latwgs84>43.43321809894</latwgs84>
+        <lonwgs84>-2.898966690000634</lonwgs84>
+        <municipality>Lemoiz</municipality>
+        <municipalitycode>056</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-armintza/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000009282_g1_rec_turismo/es_9282/9282-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/es_9282/data/9282_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/r01Index/0000009282_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/opendata/0000009282_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="13">
+        <documentname>Playa de Arrigorri</documentname>
+        <turismdescription>La playa de Arrigorri está situada en el municipio de Ondarroa, en Bizkaia. Además ...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Arrigorri est&amp;amp;aacute  situada en el municipio de Ondarroa, en Bizkaia. Adem&amp;amp;aacute s de poder tomar el sol y disfrutar de un agradable ba&amp;amp;ntilde o, la playa de Arrigorri ofrece la posibilidad de realizar numerosas actividades en sus 150 metros de arena fina. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Al estar situado en la zona urbana del municipio, dispone de numerosos bares y zonas de ocio, as&amp;amp;iacute  como de un excelente paseo mar&amp;amp;iacute timo, que nos lleva hasta la playa gipuzcoana de Saturraran. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.32285365608519,-2.4192082803955373</latitudelongitude>
+        <latwgs84>43.32285365608519</latwgs84>
+        <lonwgs84>-2.4192082803955373</lonwgs84>
+        <municipality>Ondarroa</municipality>
+        <municipalitycode>073</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-arrigorri/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002993_g1_rec_turismo/es_2993/2993-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/es_2993/data/2993_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/r01Index/0000002993_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/opendata/0000002993_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="14">
+        <documentname>Playa de Arrigunaga</documentname>
+        <turismdescription>La playa de Arrigunaga se encuentra en el municipio de Getxo, en Bizkaia. Ubicada bajo los acanti...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Arrigunaga se encuentra en el municipio de Getxo, en Bizkaia. Ubicada bajo los acantilados de La Galea, ofrece hermosas vistas al Abra y al Molino de Aixerrota. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Adem&amp;amp;aacute s de poder tomar el sol y un agradable ba&amp;amp;ntilde o, la playa de Arrigunaga ofrece al visitante la posibilidad de realizar numerosas actividades como el &amp;lt;strong&amp;gt;surf &amp;lt;/strong&amp;gt;o el skate. Aunque es de f&amp;amp;aacute cil acceso, resulta algo peligrosa, ya que su fondo es de arena y roca, y al bajar la marea, aparecen puntas de roca, por lo que hay que tener cuidado. Genera varias olas a lo largo de la playa, siendo las m&amp;amp;aacute s interesantes las que rompen atr&amp;amp;aacute s. &amp;lt;br/&amp;gt; En la zona oeste de la playa hay un espig&amp;amp;oacute n y junto a &amp;amp;eacute l, los d&amp;amp;iacute as de mucho mar rompe una derecha que se adentra en la r&amp;amp;iacute a. Esta ola es s&amp;amp;oacute lo para expertos ya que rompe a partir de los dos metros de altura. A un kil&amp;amp;oacute metro m&amp;amp;aacute s hacia el norte se encuentra otra ola de gran calidad que solo rompe en ocasiones especiales, se trata de un &amp;lt;em&amp;gt;point break&amp;lt;/em&amp;gt; que genera largas derechas. Cabe destacar que este arenal ha obtenido la &amp;lt;strong&amp;gt;Bandera Azul&amp;lt;/strong&amp;gt;, Certificado Internacional de Calidad Ambiental otorgado por la FEE&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca,Bilbao</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.358253,-3.018707</latitudelongitude>
+        <latwgs84>43.358253</latwgs84>
+        <lonwgs84>-3.018707</lonwgs84>
+        <municipality>Getxo</municipality>
+        <municipalitycode>044</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-arrigunaga/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003011_g1_rec_turismo/es_3011/3011-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/es_3011/data/3011_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/r01Index/0000003011_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/opendata/0000003011_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="15">
+        <documentname>Playa de Bakio</documentname>
+        <turismdescription>La hermosa playa de Bakio, situada en el municipio vizcaíno del mismo nombre, cuenta con u...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La hermosa playa de Bakio, situada en el municipio vizca&amp;amp;iacute no del mismo nombre, cuenta con un largo paseo que recorre toda la playa, desde donde podemos divisar un &amp;lt;strong&amp;gt;extraordinario paisaje costero&amp;lt;/strong&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Adem&amp;amp;aacute s, al estar situado en pleno centro urbano, dispone de &amp;lt;strong&amp;gt;toda clase de servicios y lugares de ocio &amp;lt;/strong&amp;gt;en sus inmediaciones. Asimismo, ofrece al visitante la posibilidad de realizar actividades como el surf, el pirag&amp;amp;uuml ismo o voley playa. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Es una playa que ofrece olas de picos de derechas e izquierdas, con tres zonas diferenciadas, la zona oeste con una derecha potente que s&amp;amp;oacute lo rompe los d&amp;amp;iacute as grandes, El Callej&amp;amp;oacute n y Pe&amp;amp;ntilde as Rojas, donde podemos encontrar &amp;lt;strong&amp;gt;olas de calidad &amp;lt;/strong&amp;gt;gracias a sus fondos de arena y rocas. Es id&amp;amp;oacute nea para surfistas de todos los niveles. Ofrece olas pr&amp;amp;aacute cticamente todo el a&amp;amp;ntilde o al tratarse de una playa abierta. Goza de un club local y dos escuelas de surf. Aguanta hasta 2,5-3 metros y acoge importantes eventos de surf. &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4302345617966,-2.80576229095459</latitudelongitude>
+        <latwgs84>43.4302345617966</latwgs84>
+        <lonwgs84>-2.80576229095459</lonwgs84>
+        <municipality>Bakio</municipality>
+        <municipalitycode>012</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-bakio/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003003_g1_rec_turismo/es_3003/3003-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/es_3003/data/3003_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/r01Index/0000003003_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/opendata/0000003003_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="16">
+        <documentname>Playa de Barinatxe</documentname>
+        <turismdescription>Enclavada entre los municipios vizcaínos de Sopela y Getxo, la playa de Barinatxe est&amp;amp;aacu...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;Enclavada entre los municipios vizca&amp;amp;iacute nos de Sopela y Getxo, la playa de Barinatxe est&amp;amp;aacute  compuesta por tres elementos vitales de la naturaleza: agua de una inmensa bravura, fina arena y un aire vol&amp;amp;aacute til que emana una pureza solamente propia de enclaves tan caracter&amp;amp;iacute sticos como este. Precisamente gracias a su innato e impredecible ecosistema, Barinatxe se ha ganado el nombre de &amp;amp;ldquo La Salvaje&amp;amp;rdquo . &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Se trata de una &amp;lt;strong&amp;gt;playa amplia y abierta, flanqueada por hermosos acantilados&amp;lt;/strong&amp;gt;, y que cuenta con una zona naturista. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Asimismo, la playa de Barinatxe ofrece la oportunidad de realizar numerosas actividades, entre las que destaca el &amp;lt;strong&amp;gt;surf&amp;lt;/strong&amp;gt;, debido al gran oleaje de sus aguas. &amp;lt;br/&amp;gt; Como su propio nombre indica se trata de una playa salvaje con un sistema dunar propio. Cuenta con un edificio multiusos con vestuarios, duchas y donde tienen su sede las escuelas de surf locales, cuenta con dos clubes de surf y como el resto de las playas de esta zona hay una gran afluencia de ba&amp;amp;ntilde istas y surfistas. Orientada al noroeste, la frecuencia de olas es bastante alta. Es una playa que cuenta con distintos picos, la m&amp;amp;aacute s conocida es la ola de La Triangular, de fondo rocoso, que puede aguantar bastante tama&amp;amp;ntilde o y funciona con todas las mareas. Se trata de una derecha larga con un pico muy concentrado pero bastante noble, lo que la hace ideal para la pr&amp;amp;aacute ctica del longboard, en marea baja tiene una izquierda m&amp;amp;aacute s vertical con secciones tuberas. En la zona oeste de la playa est&amp;amp;aacute  la ola de La Batidora, donde predominan las izquierdas. En la zona centro se encuentra La Corriente, una izquierda muy t&amp;amp;eacute cnica y muy cambiante en funci&amp;amp;oacute n de la marea, el tama&amp;amp;ntilde o del swell y la corriente. En Barinatxe los fondos son muy cambiantes y pueden dar olas de mucha calidad. Sus acantilados son ideales para la pr&amp;amp;aacute ctica del parapente.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca,Bilbao</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <municipality>Getxo Sopela</municipality>
+        <municipalitycode>044 085</municipalitycode>
+        <territory>Bizkaia Bizkaia</territory>
+        <territorycode>48 48</territorycode>
+        <country>España España</country>
+        <countrycode>108 108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-barinatxe/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003019_g1_rec_turismo/es_3019/3019-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/es_3019/data/3019_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/r01Index/0000003019_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/opendata/0000003019_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="17">
+        <documentname>Playa de Ea</documentname>
+        <turismdescription>La playa de Ea se halla en el municipio del mismo nombre, en la costa oriental de Bizkaia.  Al ...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Ea se halla en el municipio del mismo nombre, en la costa oriental de Bizkaia. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Al estar &amp;lt;strong&amp;gt;ubicado en el mismo casco urbano&amp;lt;/strong&amp;gt;, junto al &amp;lt;strong&amp;gt;pintoresco puerto&amp;lt;/strong&amp;gt;, este peque&amp;amp;ntilde o y acogedor arenal cuenta en sus proximidades con varias zonas de paseo, as&amp;amp;iacute  como bares y restaurantes.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Adem&amp;amp;aacute s de poder tomar el sol y disfrutar de un agradable ba&amp;amp;ntilde o, esta playa se encuentra bien equipada, con duchas, aseos p&amp;amp;uacute blicos, vestuarios, papeleras, guardabicicletas, fuentes y una zona de juegos infantiles. &amp;lt;br/&amp;gt; Se trata de una playa vigilada, que cuenta con socorristas y plazas de aparcamiento en las inmediaciones.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.380135,-2.585593</latitudelongitude>
+        <latwgs84>43.380135</latwgs84>
+        <lonwgs84>-2.585593</lonwgs84>
+        <municipality>Ea</municipality>
+        <municipalitycode>028</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-ea/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000009312_g1_rec_turismo/es_9312/9312-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/es_9312/data/9312_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/r01Index/0000009312_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/opendata/0000009312_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="18">
+        <documentname>Playa de Barrika</documentname>
+        <turismdescription>La playa de Barrika, enclavada en el municipio del mismo nombre y a 25 km de Bilbao, es una playa...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Barrika, enclavada en el municipio del mismo nombre y a 25 km de Bilbao, es una &amp;lt;strong&amp;gt;playa salvaje &amp;lt;/strong&amp;gt;de 600 metros de longitud, &amp;lt;strong&amp;gt;rodeada de espectaculares acantilados&amp;lt;/strong&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Compuesto de arena y piedras, unas escaleras facilitan el acceso a este precioso arenal que se encuentra abierto al mar. Debido a sus caracter&amp;amp;iacute sticas, es muy frecuentado por los surfistas, as&amp;amp;iacute  como por aficionados al nudismo. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Se trata de una playa escondida que desaparece con la marea, por lo que hay que estar muy atento. Su fondo de arena y rocas produce olas de calidad media, destaca su izquierda larga y maniobrable. Es imprescindible tener cuidado en la orilla. El entorno es verde y de una belleza singular. &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.40545839853304,-2.972990221309601</latitudelongitude>
+        <latwgs84>43.40545839853304</latwgs84>
+        <lonwgs84>-2.972990221309601</lonwgs84>
+        <municipality>Barrika</municipality>
+        <municipalitycode>014</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-barrika/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003022_g1_rec_turismo/es_3022/3022-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/es_3022/data/3022_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/r01Index/0000003022_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/opendata/0000003022_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="19">
+        <documentname>Playa de Gaztetape</documentname>
+        <turismdescription>La playa de Gaztetape se esconde al oeste del monte San Antón, más conocido por el ...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Gaztetape se esconde al oeste del monte San Ant&amp;amp;oacute n, m&amp;amp;aacute s conocido por el nombre de Rat&amp;amp;oacute n de Getaria por su peculiar forma. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Esta playa de &amp;lt;strong&amp;gt;fina arena dorada&amp;lt;/strong&amp;gt; se encuentra abierta al mar y, por lo tanto, es muy frecuentada por los surfistas, quienes acuden a este arenal a disfrutar de las olas. Aunque sobre todo destaca la ola derecha de la playa los d&amp;amp;iacute as grandes, la playa tambi&amp;amp;eacute n posee otras olas como la izquierda de las rocas y las orilleras de marea alta. Su fondo es de arena y rocas y lastras que van avanzando en el mar. Est&amp;amp;aacute  orientada al este y en funci&amp;amp;oacute n de los fondos puede dar excelentes sesiones. La playa cuenta con un club de surf local y es de gran belleza. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Tambi&amp;amp;eacute n se pueden practicar otros deportes, como windsurf, pirag&amp;amp;uuml ismo y pesca deportiva, entre otros.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.303655403374485,-2.206051341625198</latitudelongitude>
+        <latwgs84>43.303655403374485</latwgs84>
+        <lonwgs84>-2.206051341625198</lonwgs84>
+        <municipality>Getaria</municipality>
+        <municipalitycode>039</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-gaztetape/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002992_g1_rec_turismo/es_2992/2992-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/es_2992/data/2992_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/r01Index/0000002992_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/opendata/0000002992_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="20">
+        <documentname>Playa de Ereaga</documentname>
+        <turismdescription>La playa de Ereaga se encuentra en el municipio de Getxo, entre el puerto viejo de Algorta y el e...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Ereaga se encuentra en el municipio de Getxo, entre el puerto viejo de Algorta y el espig&amp;amp;oacute n de Arriluze. Con sus m&amp;amp;aacute s de &amp;lt;strong&amp;gt;800 metros de fina arena&amp;lt;/strong&amp;gt;, este hermoso arenal est&amp;amp;aacute  muy bien equipado de cara a la &amp;amp;eacute poca estival. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Por otro lado, son muchos los deportes que se practican en esta playa: surf, pirag&amp;amp;uuml ismo, voleibol y vela, entre otros. Pero, sin duda, Ereaga es muy conocida por los torneos de f&amp;amp;uacute tbol playa que aqu&amp;amp;iacute  se disputan. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Se trata de una playa urbana que ofrece sobre todo olas de izquierdas y es id&amp;amp;oacute nea para la pr&amp;amp;aacute ctica del bodyboard. Olas cortas y tubulares. Necesita mucho mar, por lo que no ofrece olas a menudo  aguanta olas de hasta 2 metros y cabe destacar que est&amp;amp;aacute  muy protegida del viento noroeste, por lo que resulta una alternativa muy v&amp;amp;aacute lida cuando las condiciones meteorol&amp;amp;oacute gicas son adversas en las playas abiertas y el mar est&amp;amp;aacute  desfasado. &amp;lt;br/&amp;gt; El otro spot existente en esta playa es el apodado Jeffrey&amp;amp;#39 s por los locales: una derecha de calidad que rompe en la zona interna de la r&amp;amp;iacute a de Bilbao, en frente del Puerto Viejo de Algorta. Necesita de mucha mar para empezar a romper y son pocas las veces que lo hace al a&amp;amp;ntilde o, pero cuando se dan las condiciones, aguanta olas largas de hasta 3 metros de altura. El acceso es complicado ya que hay que acceder entre rocas o realizar una remada de mucho recorrido. Cabe destacar que este arenal ha obtenido la &amp;lt;strong&amp;gt;Bandera Azul&amp;lt;/strong&amp;gt;, Certificado Internacional de Calidad Ambiental otorgado por la FEE&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Algorta</locality>
+        <marks>Costa Vasca,Bilbao</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.34189,-3.013635</latitudelongitude>
+        <latwgs84>43.34189</latwgs84>
+        <lonwgs84>-3.013635</lonwgs84>
+        <municipality>Getxo</municipality>
+        <municipalitycode>044</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-ereaga/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002994_g1_rec_turismo/es_2994/2994-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/es_2994/data/2994_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/r01Index/0000002994_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/opendata/0000002994_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="21">
+        <documentname>Playa de Gorrondatxe (Azkorri)</documentname>
+        <turismdescription>Gorrondatxe es la cuarta playa de Getxo y quizá la menos accesible, pero la m&amp;amp;aa...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Gorrondatxe&amp;lt;/strong&amp;gt; es la cuarta playa de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/getxo/aa30-12375/es/&amp;quot;&amp;gt;Getxo&amp;lt;/a&amp;gt;&amp;amp;nbsp y&amp;amp;nbsp quiz&amp;amp;aacute  la menos accesible, pero la m&amp;amp;aacute s limpia. Conocido tambi&amp;amp;eacute n por el nombre de &amp;lt;strong&amp;gt;Azkorri&amp;lt;/strong&amp;gt;, este arenal se encuentra alejado del casco urbano del municipio al que pertenece, pero pr&amp;amp;oacute ximo a la vecina localidad de Berango.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;La playa est&amp;amp;aacute  situada en un &amp;lt;strong&amp;gt;entorno natural de excepci&amp;amp;oacute n&amp;lt;/strong&amp;gt;, rodeada de abruptos acantilados y hermosas dunas. De arena fina y oscura, est&amp;amp;aacute  bien equipada.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Asimismo, la playa de Gorrondatxe es un lugar propicio para la pr&amp;amp;aacute ctica de algunas actividades deportivas, como el voleibol y el surf.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Se trata de una de las playas m&amp;amp;aacute s especiales de la zona, es de las pocas que a&amp;amp;uacute n conserva el sistema dunar propio y es un&amp;amp;nbsp &amp;lt;em&amp;gt;beach rock&amp;lt;/em&amp;gt;, su superficie es dura. En la zona oeste de la playa se encuentra la ola del Akanti, justo enfrente de la punta del acantilado, es una izquierda muy t&amp;amp;eacute cnica con distintas secciones, alguna de ellas tubera. Puede aguantar hasta 3 metros y necesita un swell medio para empezar a funcionar. En la zona centro y este de la playa tambi&amp;amp;eacute n hay olas interesantes que rompen sobre roca, una derecha intensa y una izquierda de mayor calidad. En ambas olas es importante que las condiciones de viento y swell sean lo m&amp;amp;aacute s limpias posible.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Cabe destacar que este arenal ha obtenido la Bandera Azul, certificado Internacional de Calidad Ambiental otorgado por la FEE.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Andra Mari</locality>
+        <marks>Costa Vasca,Bilbao</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3791013350026,-3.02021026611328</latitudelongitude>
+        <latwgs84>43.3791013350026</latwgs84>
+        <lonwgs84>-3.02021026611328</lonwgs84>
+        <municipality>Getxo</municipality>
+        <municipalitycode>044</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-gorrondatxe-aizkorri/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002988_g1_rec_turismo/es_2988/2988-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/es_2988/data/2988_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/r01Index/0000002988_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/opendata/0000002988_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="22">
+        <documentname>Playa de Gorliz</documentname>
+        <turismdescription>Sus extensas arenas y la seguridad de su baño hacen que esta playa sea preferida por las f...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;Sus &amp;lt;strong&amp;gt;extensas arenas y la seguridad de su ba&amp;amp;ntilde o&amp;lt;/strong&amp;gt; hacen que esta playa sea preferida por las familias. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;La playa de Gorliz, con 842 metros de longitud, est&amp;amp;aacute  ubicada en pleno centro urbano, rodeada de un hermoso paseo mar&amp;amp;iacute timo. Cuenta en sus proximidades con zonas de ocio, un amplio aparcamiento a pie de playa y &amp;amp;aacute reas verdes con mesas, bancos, barbacoas y juegos infantiles. Asimismo, dispone de &amp;lt;strong&amp;gt;todo tipo de servicios&amp;lt;/strong&amp;gt;, como duchas, aseos, fuentes, lavapies, etc. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Adem&amp;amp;aacute s, en esta playa, se pueden practicar diversas actividades acu&amp;amp;aacute ticas:&amp;amp;nbsp surf, vela, pirag&amp;amp;uuml ismo y voleibol, entre otras. &amp;lt;br/&amp;gt; Primera playa de Euskadi certificada con la Q de calidad tur&amp;amp;iacute stica. Dispone de WIFI gratuito.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <qualityq>1</qualityq>
+        <qualityicondescription>Q de calidad</qualityicondescription>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4183904607326,-2.94570922851563</latitudelongitude>
+        <latwgs84>43.4183904607326</latwgs84>
+        <lonwgs84>-2.94570922851563</lonwgs84>
+        <municipality>Gorliz</municipality>
+        <municipalitycode>043</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-gorliz/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002998_g1_rec_turismo/es_2998/2998-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/es_2998/data/2998_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/r01Index/0000002998_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/opendata/0000002998_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="23">
+        <documentname>Playa de Hondartzape</documentname>
+        <turismdescription>La playa de Hondartzape está ubicada en el municipio vizcaíno de Mundaka, a 36 km d...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Hondartzape est&amp;amp;aacute  ubicada en el municipio vizca&amp;amp;iacute no de Mundaka, a 36 km de Bilbao. La principal caracter&amp;amp;iacute stica de esta playa son sus rocas y su arena negra, formando as&amp;amp;iacute , en bajamar, una &amp;lt;strong&amp;gt;peque&amp;amp;ntilde a y bonita cala&amp;lt;/strong&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;La playa cuenta en sus inmediaciones con unas &amp;lt;strong&amp;gt;espectaculares vistas&amp;lt;/strong&amp;gt;, dado que se encuentra dentro de la Reserva de la Biosfera de Urdaibai, espacio natural de gran inter&amp;amp;eacute s por ser lugar de reposo e invernada de muchas especies de aves migratorias. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Hondartzape es un lugar apropiado para quienes buscan un &amp;lt;strong&amp;gt;ambiente tranquilo e ideal&amp;lt;/strong&amp;gt; para los amantes del &amp;lt;strong&amp;gt;submarinismo&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.407335,-2.698322</latitudelongitude>
+        <latwgs84>43.407335</latwgs84>
+        <lonwgs84>-2.698322</lonwgs84>
+        <municipality>Mundaka</municipality>
+        <municipalitycode>068</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-hondartzape/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003014_g1_rec_turismo/es_3014/3014-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/es_3014/data/3014_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/r01Index/0000003014_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/opendata/0000003014_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="24">
+        <documentname>Playa de Hondarribia</documentname>
+        <turismdescription>La playa de Hondarribia está ubicada en el extremo oriental del litoral guipuzcoano, concr...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/hondarribia/aa30-12375/es/&amp;quot;&amp;gt;Hondarribia&amp;lt;/a&amp;gt; est&amp;amp;aacute  ubicada en el extremo oriental del litoral guipuzcoano, concretamente en la hermosa &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/espacios-naturales/bahia-de-txingudi-y-hondarribia/aa30-12375/es/&amp;quot;&amp;gt;bah&amp;amp;iacute a de Txingudi&amp;lt;/a&amp;gt;, junto a la desembocadura del r&amp;amp;iacute o Bidasoa.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Este hermoso arenal de &amp;lt;strong&amp;gt;fina arena dorada&amp;lt;/strong&amp;gt; y aguas tranquilas cuenta con 700 metros de longitud. Se encuentra muy cerca del centro urbano, por lo que est&amp;amp;aacute  rodeado de numerosos establecimientos hosteleros y dispone de diversos servicios.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Hondarribia es un spot alternativo para los d&amp;amp;iacute as de maret&amp;amp;oacute n. Se trata de una derecha larga y maniobrable que rompe junto al espig&amp;amp;oacute n y da buenas sesiones, sobre todo en invierno. &amp;amp;Uacute nico spot del municipio, es uno de los m&amp;amp;aacute s bellos de la costa vasca.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Asimismo, en esta playa, podemos practicar otros deportes acu&amp;amp;aacute ticos, entre los que destacan el pirag&amp;amp;uuml ismo y el windsurf. Adem&amp;amp;aacute s, durante la &amp;amp;eacute poca estival, se coloca una estructura en el mar con toboganes y trampolines.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3797889,-1.7945024000000558</latitudelongitude>
+        <latwgs84>43.3797889</latwgs84>
+        <lonwgs84>-1.7945024000000558</lonwgs84>
+        <municipality>Hondarribia</municipality>
+        <municipalitycode>036</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-hondarribia/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003007_g1_rec_turismo/es_3007/3007-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/es_3007/data/3007_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/r01Index/0000003007_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/opendata/0000003007_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="25">
+        <documentname>Playa de Itzurun</documentname>
+        <turismdescription>La playa de Itzurun, en Zumaia, forma parte de uno de los tramos más espectaculares del li...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La &amp;lt;strong&amp;gt;playa de Itzurun&amp;lt;/strong&amp;gt;, en &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/zumaia/aa30-12375/es/&amp;quot;&amp;gt;Zumaia&amp;lt;/a&amp;gt;, forma parte de uno de los tramos m&amp;amp;aacute s espectaculares del litoral guipuzcoano. Sus enormes acantilados verticales, paredes de piedra caliza que alcanzan hasta 150 metros de ca&amp;amp;iacute da, llamar&amp;amp;aacute n especialmente la atenci&amp;amp;oacute n del visitante. Se trata de un fen&amp;amp;oacute meno geol&amp;amp;oacute gico denominado&amp;amp;nbsp &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/espacios-naturales/la-rasa-mareal-y-los-acantilados-del-flysch/aa30-12375/es/&amp;quot;&amp;gt;&amp;lt;em&amp;gt;flysch&amp;lt;/em&amp;gt;&amp;lt;/a&amp;gt;&amp;amp;nbsp formado durante miles de a&amp;amp;ntilde os por la erosi&amp;amp;oacute n del mar.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Encajada entre estos &amp;lt;strong&amp;gt;bellos acantilados&amp;lt;/strong&amp;gt;, la playa de Itzurun, de fina arena dorada, se encuentra muy cerca del casco urbano de Zumaia. Cuenta con 270 metros de longitud y fuerte oleaje, por lo que es un lugar propicio para practicar diversos deportes acu&amp;amp;aacute ticos, como el surf, el pirag&amp;amp;uuml ismo o el bodyboard. Posee olas derechas e izquierdas que var&amp;amp;iacute an en funci&amp;amp;oacute n de las mareas, la zona oeste de la playa de San Telmo requiere de un nivel m&amp;amp;aacute s avanzado por tener fondos de arena y roca. Aqu&amp;amp;iacute , en marea alta, existe una orillera que crea rebotes contra el acantilado formando excelentes rampas para los bodyboarders.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;A pie de playa hay un bar donde ofrecen comidas en &amp;amp;eacute poca estival y, a escasos metros, un Centro de Talasoterapia con impresionantes vistas.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.30055372541465,-2.2604322519287052</latitudelongitude>
+        <latwgs84>43.30055372541465</latwgs84>
+        <lonwgs84>-2.2604322519287052</lonwgs84>
+        <municipality>Zumaia</municipality>
+        <municipalitycode>081</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-itzurun/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003021_g1_rec_turismo/es_3021/3021-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/es_3021/data/3021_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/r01Index/0000003021_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/opendata/0000003021_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="26">
+        <documentname>Playa de Isuntza</documentname>
+        <turismdescription>La playa de Isuntza se encuentra en el municipio de Lekeitio, al este del litoral vizcaíno...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Isuntza se encuentra en el municipio de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/lekeitio/aa30-12375/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Lekeitio&amp;lt;/a&amp;gt;, al este del litoral vizca&amp;amp;iacute no. Al estar ubicada en el mismo &amp;lt;strong&amp;gt;casco urbano&amp;lt;/strong&amp;gt;, junto al puerto y el parque de la localidad, Isuntza tiene numerosas zonas de paseo, bares, restaurantes y hoteles en sus alrededores. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Adem&amp;amp;aacute s, la playa cuenta con socorristas, hondartzainas y aparcamiento urbano. Tambi&amp;amp;eacute n dispone de aseos p&amp;amp;uacute blicos, lavabos, duchas, vestuarios, guardabicicletas y lavapies. Ofrece, asimismo, la posibilidad de realizar algunas actividades deportivas, tales como pirag&amp;amp;uuml ismo, voleibol y submarinismo.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Desde la playa, se pueden observar excelentes panor&amp;amp;aacute micas de la &amp;lt;strong&amp;gt;isla de San Nicol&amp;amp;aacute s&amp;lt;/strong&amp;gt;, a la cual podremos acceder por el malec&amp;amp;oacute n en bajamar. &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3632537512373,-2.50110626220703</latitudelongitude>
+        <latwgs84>43.3632537512373</latwgs84>
+        <lonwgs84>-2.50110626220703</lonwgs84>
+        <municipality>Lekeitio</municipality>
+        <municipalitycode>057</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-isuntza/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002987_g1_rec_turismo/es_2987/2987-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/es_2987/data/2987_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/r01Index/0000002987_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/opendata/0000002987_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="27">
+        <documentname>Playa de Kanalape</documentname>
+        <turismdescription>La playa de Kanalape es uno de los arenales que se forman en la ría de Gernika. Est&amp;amp;aacute...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Kanalape es uno de los arenales que se forman en la r&amp;amp;iacute a de Gernika. Est&amp;amp;aacute  ubicada en el municipio vizca&amp;amp;iacute no de Gautegiz Arteaga, desde donde accederemos tras descender a pie un sendero que parte detr&amp;amp;aacute s de la iglesia del barrio de Kanala. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Playa acogedora y de aguas tranquilas, sus 300 metros de arena fina y dorada invitan a relajarse, al tiempo que nos ofrecen unas hermosas vistas de la &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/top10/espacios-naturales/reserva-de-la-biosfera-de-urdaibai/aa30-12376/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Reserva de la Biosfera de Urdaibai&amp;lt;/a&amp;gt;, uno de los humedales m&amp;amp;aacute s importantes de Euskadi que sirve de cobijo a numerosas especies de aves migratorias.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En este privilegiado entorno tambi&amp;amp;eacute n es posible practicar alguna actividad acu&amp;amp;aacute tica, como la vela y el windsurf.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Kanala | Diseminado</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.381846164937,-2.67851829528809</latitudelongitude>
+        <latwgs84>43.381846164937</latwgs84>
+        <lonwgs84>-2.67851829528809</lonwgs84>
+        <municipality>Gautegiz Arteaga</municipality>
+        <municipalitycode>041</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-kanalape/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003000_g1_rec_turismo/es_3000/3000-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/es_3000/data/3000_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/r01Index/0000003000_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/opendata/0000003000_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="28">
+        <documentname>Playa de Kanala</documentname>
+        <turismdescription>La playa de Kanala está ubicada en el municipio vizcaíno de Gautegiz-Arteaga, en la margen derech...</turismdescription>
+        <turismdescription>La playa de Kanala está ubicada en el municipio vizcaíno de Gautegiz-Arteaga, en la margen derecha de la ría de Gernika.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Esta tranquila y acogedora playa, compuesta de una fina arena dorada, guijarros y piedras, ofrece al visitante la posibilidad de relajarse tomando el sol o disfrutando de un agradable baño. También es un lugar propicio para practicar diversos deportes acuáticos, como windsurf, vela y piragüismo.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Gracias a su privilegiado enclave, contemplaremos las impresionantes vistas que nos ofrece la Reserva de la Biosfera de Urdaibai, espacio natural de excepción formado por 12 km de extensos arenales y que constituye la zona húmeda más importante de Euskadi.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Kanala | Diseminado</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3845908706076,-2.68117904663086</latitudelongitude>
+        <latwgs84>43.3845908706076</latwgs84>
+        <lonwgs84>-2.68117904663086</lonwgs84>
+        <municipality>Gautegiz Arteaga</municipality>
+        <municipalitycode>041</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-kanala/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003006_g1_rec_turismo/es_3006/3006-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/es_3006/data/3006_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/r01Index/0000003006_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/opendata/0000003006_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="29">
+        <documentname>Playa de La Arena</documentname>
+        <turismdescription>Situada entre Muskiz y Zierbena, la hermosa playa de La Arena tiene 966 metros de longitud y es u...</turismdescription>
+        <turismdescription>Situada entre Muskiz y Zierbena, la hermosa playa de La Arena tiene 966 metros de longitud y es uno de los rincones preferidos de los surfistas de la Margen Izquierda del Gran Bilbao. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Es la última playa de Euskadi en su límite oeste. Tiene fundamentalmente tres olas principales: la izquierda de Pobeña, en la zona oeste de la playa, el Centro y la derecha del Vivero, en la zona este de la playa. Es en el Centro donde se imparten las clases de surf, ya que los otros dos picos merecen especial atención por las fuertes corrientes. Todas las olas funcionan en todas las mareas, aunque Pobeña rompe mejor con marea baja, siendo una izquierda larga de gran calidad que puede ofrecer sesiones épicas. La playa aguanta hasta los 2 metros y no necesita mucho mar, gracias a que es un arenal abierto.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>La Arena</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <municipality>Zierbena Muskiz</municipality>
+        <municipalitycode>913 071</municipalitycode>
+        <territory>Bizkaia Bizkaia</territory>
+        <territorycode>48 48</territorycode>
+        <country>España España</country>
+        <countrycode>108 108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-la-arena/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002984_g1_rec_turismo/es_2984/2984-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/es_2984/data/2984_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/r01Index/0000002984_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/opendata/0000002984_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="30">
+        <documentname>Playa de Karraspio</documentname>
+        <turismdescription>La hermosa playa de Karraspio pertenece al municipio de Mendexa, aunque prácticamente se encuentr...</turismdescription>
+        <turismdescription>La hermosa playa de Karraspio pertenece al municipio de Mendexa, aunque prácticamente se encuentra en Lekeitio. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El arenal ofrece al visitante la posibilidad de realizar numerosas actividades deportivas como surf, voleibol y vela. Karraspio es apropiada para la iniciación al surf. Necesita un swell grande para romper. Posee distintas olas que varían en función de la marea. La isla de San Nicolás está justo enfrente y las series pasan por su costado este, donde en ocasiones sale una izquierda de calidad. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Asimismo, al lado de la carretera que nos lleva desde Lekeitio a Karraspio, hay un paseo, desde el cual contemplaremos las preciosas vistas que nos ofrece la costa vizcaína.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3628169481706,-2.49423980712891</latitudelongitude>
+        <latwgs84>43.3628169481706</latwgs84>
+        <lonwgs84>-2.49423980712891</lonwgs84>
+        <municipality>Mendexa</municipality>
+        <municipalitycode>063</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-karraspio/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003012_g1_rec_turismo/es_3012/3012-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/es_3012/data/3012_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/r01Index/0000003012_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/opendata/0000003012_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="31">
+        <documentname>Playa de Laga</documentname>
+        <turismdescription>La hermosa playa dunar de Laga, enclavada en la Reserva de la Biosfera de Urdaibai y junto al cab...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La hermosa playa dunar de Laga, enclavada en la &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/top10/espacios-naturales/reserva-de-la-biosfera-de-urdaibai/aa30-12376/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Reserva de la Biosfera de Urdaibai&amp;lt;/a&amp;gt; y junto al cabo de Ogo&amp;amp;ntilde o (279 m), pertenece al municipio de Ibarrangelu.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Es uno de los arenales m&amp;amp;aacute s bonitos de la costa vizca&amp;amp;iacute na. Con sus &amp;lt;strong&amp;gt;574 metros de arena fina y dorada&amp;lt;/strong&amp;gt;, la playa se encuentra &amp;lt;strong&amp;gt;abierta al mar&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;N&amp;amp;uacute cleo surfero de los &amp;lt;strong&amp;gt;surfistas &amp;lt;/strong&amp;gt;de Gernika y alrededores, las olas de Laga son cortas e intensas, picos de izquierda y de derechas. La zona este de la playa es la m&amp;amp;aacute s concurrida.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Necesita un swell medio de direcci&amp;amp;oacute n oeste para empezar a funcionar. Puede aguantar hasta los dos metros. Cuenta con un club de surf y una escuela. &amp;lt;br/&amp;gt; Tambi&amp;amp;eacute n se practican otros deportes acu&amp;amp;aacute ticos, como la vela o el pirag&amp;amp;uuml ismo. Los m&amp;amp;aacute s intr&amp;amp;eacute pidos incluso se atreven a saltar desde el pe&amp;amp;ntilde &amp;amp;oacute n de Ogo&amp;amp;ntilde o con sus parapentes.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4090382177706,-2.65663146972656</latitudelongitude>
+        <latwgs84>43.4090382177706</latwgs84>
+        <lonwgs84>-2.65663146972656</lonwgs84>
+        <municipality>Ibarrangelu</municipality>
+        <municipalitycode>048</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-laga/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002991_g1_rec_turismo/es_2991/2991-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/es_2991/data/2991_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/r01Index/0000002991_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/opendata/0000002991_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="32">
+        <documentname>Playa de La Concha</documentname>
+        <turismdescription>La incomparable playa de La Concha es una de las señas de identidad de Donostia / San Sebastián. ...</turismdescription>
+        <turismdescription>La incomparable playa de La Concha es una de las señas de identidad de Donostia / San Sebastián. Situada en pleno centro de la ciudad, ofrece al visitante la oportunidad de disfrutar de magníficas vistas, como la que nos ofrece su hermosa bahía en forma de concha, con la isla de Santa Clara en el centro, flanqueada por los montes Urgull e Igeldo.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;De fina arena dorada, en sus 1.350 metros de longitud podemos practicar numerosas actividades deportivas, tales como surf, windsurf, piragüismo, bodyboard, voleibol o fútbol playa. Es un spot alternativo para los días grandes, un &amp;lt;em&amp;gt;beach break&amp;lt;/em&amp;gt; muy urbano. Cuenta con varios picos, sobre todo derechas, destacando El Pico del Loro en marea alta, ideal para la práctica de bodyboard. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En la temporada de verano, se coloca una estructura en el mar con toboganes y trampolines, que nos permite disfrutar aún más del baño. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Donostia / San Sebastián</locality>
+        <marks>Costa Vasca,San Sebastián</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3181840687112,-1.98646545410156</latitudelongitude>
+        <latwgs84>43.3181840687112</latwgs84>
+        <lonwgs84>-1.98646545410156</lonwgs84>
+        <municipality>Donostia / San Sebastián</municipality>
+        <municipalitycode>069</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas/playa-de-la-concha-san-sebastian/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003001_g1_rec_turismo/es_3001/3001-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/es_3001/data/3001_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/r01Index/0000003001_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/opendata/0000003001_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="33">
+        <documentname>Playa de Landa</documentname>
+        <turismdescription>Situada en el embalse de Ullibarri-Gamboa tiene 40 Ha y 500 metros de playa. El pantano al que se...</turismdescription>
+        <turismdescription>Situada en el embalse de Ullibarri-Gamboa tiene 40 Ha y 500 metros de playa. El pantano al que se asoma es el que suministra de agua potable a Vitoria-Gasteiz y parte de Bilbao. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Durante el periodo estival disponen de zonas de solárium, áreas acotadas para el baño infantil, duchas y puestos del servicio de socorrismo y primeros auxilios.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El Parque Provincial de Landa se encuentra al noroeste del embalse. Existen itinerarios que recorren  a pie o en bici la práctica totalidad del embalse. Una visita obligada es el cercano Parque Ornitológico Mendixur.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Esta playa interior ha sido reconocida con la bandera azul, por la calidad de su entorno y los servicios que ofrece.&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Ullíbarri-Gamboa</locality>
+        <marks>Vitoria-Gasteiz</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>42.9400128416397,-2.6054306386230337</latitudelongitude>
+        <latwgs84>42.9400128416397</latwgs84>
+        <lonwgs84>-2.6054306386230337</lonwgs84>
+        <municipality>Arratzua-Ubarrundia</municipality>
+        <municipalitycode>008</municipalitycode>
+        <territory>Araba/Álava</territory>
+        <territorycode>01</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-landa/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000085181_g1_rec_turismo/es_85181/85181-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/es_85181/data/85181_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/r01Index/0000085181_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/opendata/0000085181_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="34">
+        <documentname>Playa de Las Arenas</documentname>
+        <turismdescription>La playa de Las Arenas se encuentra en el municipio vizcaíno de Getxo, en el Abra de Bilba...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Las Arenas se encuentra en el municipio vizca&amp;amp;iacute no de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/getxo/aa30-12375/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Getxo&amp;lt;/a&amp;gt;, en el Abra de Bilbao, junto al muelle de Churruca y muy pr&amp;amp;oacute xima al &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/top10/patrimonio-cultural/puente-colgante-de-bizkaia/aa30-12376/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Puente de Bizkaia&amp;lt;/a&amp;gt;, monumento declarado Patrimonio de la Humanidad. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Este peque&amp;amp;ntilde o arenal, ubicado en pleno centro urbano, est&amp;amp;aacute  bien comunicado y cuenta en sus inmediaciones con un club mar&amp;amp;iacute timo de gran tradici&amp;amp;oacute n y numerosos servicios hosteleros.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En la &amp;amp;eacute poca estival, socorristas y hondartzainas vigilan la playa, mientras que los usuarios tienen a su disposici&amp;amp;oacute n varios servicios  aseos, duchas, vestuarios, fuentes... &amp;lt;br/&amp;gt; Adem&amp;amp;aacute s de ser un lugar propicio para tomar el sol, esta playa ofrece la posibilidad de realizar diversas actividades, como windsurf, piraguismo y, en especial, vela.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Cerca se encuentra la escuela de vela Jos&amp;amp;eacute  Luis de Ugarte, donde se organizan cursos de iniciaci&amp;amp;oacute n y perfeccionamiento en este deporte a partir de los ocho a&amp;amp;ntilde os, entre otras actividades.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Areeta/Las Arenas</locality>
+        <marks>Costa Vasca,Bilbao</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3264264544351,-3.0177640914917</latitudelongitude>
+        <latwgs84>43.3264264544351</latwgs84>
+        <lonwgs84>-3.0177640914917</lonwgs84>
+        <municipality>Getxo</municipality>
+        <municipalitycode>044</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-las-arenas/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002989_g1_rec_turismo/es_2989/2989-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/es_2989/data/2989_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/r01Index/0000002989_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/opendata/0000002989_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="35">
+        <documentname>Playa de Laida</documentname>
+        <turismdescription>La playa de Laida pertenece al municipio vizcaíno de Ibarrangelu y está ubicada en ...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Laida pertenece al municipio vizca&amp;amp;iacute no de Ibarrangelu y est&amp;amp;aacute  ubicada en la &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/top10/espacios-naturales/reserva-de-la-biosfera-de-urdaibai/aa30-12376/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Reserva de la Biosfera de Urdaibai&amp;lt;/a&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;Con casi un kil&amp;amp;oacute metro de arena fina y dorada, es la playa m&amp;amp;aacute s grande de la r&amp;amp;iacute a de Mundaka, y ofrece la posibilidad de realizar multitud de actividades deportivas: windsurf, pirag&amp;amp;uuml ismo, vela...&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Pero, sin duda, la &amp;lt;strong&amp;gt;pr&amp;amp;aacute ctica del surf &amp;lt;/strong&amp;gt;merece especial menci&amp;amp;oacute n. Alberga olas de calidad, largas y blandas, ideales para el longboard. Tambi&amp;amp;eacute n destacan sus corrientes. En esta zona operan las escuelas de surf de Mundaka.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Otra de las caracter&amp;amp;iacute sticas que distingue a esta playa vizca&amp;amp;iacute na es la poca profundidad de sus aguas, ideal para el ba&amp;amp;ntilde o infantil. Adem&amp;amp;aacute s, en la mitad del arenal, se forma una hermosa duna, desde donde divisaremos una excelente vista de la desembocadura de la r&amp;amp;iacute a, con la &amp;lt;strong&amp;gt;isla de Izaro&amp;lt;/strong&amp;gt; al fondo.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.39957539567573,-2.6856207847595215</latitudelongitude>
+        <latwgs84>43.39957539567573</latwgs84>
+        <lonwgs84>-2.6856207847595215</lonwgs84>
+        <municipality>Ibarrangelu</municipality>
+        <municipalitycode>048</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-laida/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002997_g1_rec_turismo/es_2997/2997-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/es_2997/data/2997_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/r01Index/0000002997_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/opendata/0000002997_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="36">
+        <documentname>Playa de Laidatxu</documentname>
+        <turismdescription>La playa de Laidatxu se halla en el municipio vizcaíno de Mundaka, muy cerca del casco urb...</turismdescription>
+        <turismdescription>&amp;lt;p&amp;gt;La playa de Laidatxu se halla en el municipio vizca&amp;amp;iacute no de &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/localidades/mundaka/aa30-12375/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Mundaka&amp;lt;/a&amp;gt;, muy cerca del &amp;lt;strong&amp;gt;casco urbano&amp;lt;/strong&amp;gt;. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;De dimensiones peque&amp;amp;ntilde as y &amp;lt;strong&amp;gt;arena fina y dorada&amp;lt;/strong&amp;gt;, la calidad de sus aguas es muy buena, por lo que es muy recomendable para familias con ni&amp;amp;ntilde os. &amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Considerada como u&amp;lt;strong&amp;gt;na de las 10 mejores olas del mundo&amp;lt;/strong&amp;gt;, Mundaka ofrece olas izquierdas de gran nivel, aptas s&amp;amp;oacute lo para surfistas con conocimientos altos. Necesita condiciones muy especiales. Su ola, espectacularmente tubular, se caracteriza adem&amp;amp;aacute s por su gran longitud. Puede aguantar hasta los 4 metros.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Su situaci&amp;amp;oacute n en la salida de la r&amp;amp;iacute a de Gernika, hace que sus fondos no sean constantes y que cambien a lo largo del a&amp;amp;ntilde o. Enclavada en la &amp;lt;a href=&amp;quot;https://turismo.euskadi.eus/es/top10/espacios-naturales/reserva-de-la-biosfera-de-urdaibai/aa30-12376/es/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Reserva de la Biosfera Urdaibai&amp;lt;/a&amp;gt;, declarada patrimonio de la humanidad por la UNESCO, es uno de los parajes m&amp;amp;aacute s espectaculares de la costa vasca.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Alberga importantes eventos de nivel mundial. Este peque&amp;amp;ntilde o arenal ofrece tambi&amp;amp;eacute n la posibilidad de realizar otras actividades, como pirag&amp;amp;uuml ismo, windsurf... &amp;lt;br/&amp;gt; En la temporada de verano, podemos tomar un ferry para trasladarnos hasta la cercana playa de Laida, y recorrer as&amp;amp;iacute  parte de la hermosa Reserva de la Biosfera de Urdaibai.&amp;lt;/p&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4049851306295,-2.69937515258789</latitudelongitude>
+        <latwgs84>43.4049851306295</latwgs84>
+        <lonwgs84>-2.69937515258789</lonwgs84>
+        <municipality>Mundaka</municipality>
+        <municipalitycode>068</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-laidatxu/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003004_g1_rec_turismo/es_3004/3004-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/es_3004/data/3004_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/r01Index/0000003004_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/opendata/0000003004_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="37">
+        <documentname>Playa de Muriola</documentname>
+        <turismdescription>También conocida como La Cantera, está playa nudista está ubicada a 10 minutos del casco urbano d...</turismdescription>
+        <turismdescription>También conocida como La Cantera, está playa nudista está ubicada a 10 minutos del casco urbano de Barrika, en una pequeña ensenada orientada hacia el este y protegida por acantilados de gran belleza.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Este arenal salvaje, de reducidas dimensiones, está compuesto de arena y rocas y carece de servicios. Se accede por un camino desde el aparcamiento situado cerca la rotonda que se encuentra a la entrada de la localidad.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Muriola es, sin duda, un lugar  apropiado para quienes busquen un ambiente tranquilo e ideal para aquellos que deseen practicar submarinismo.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4130286847514,-2.95995712280273</latitudelongitude>
+        <latwgs84>43.4130286847514</latwgs84>
+        <lonwgs84>-2.95995712280273</lonwgs84>
+        <municipality>Barrika</municipality>
+        <municipalitycode>014</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-muriola/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003010_g1_rec_turismo/es_3010/3010-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/es_3010/data/3010_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/r01Index/0000003010_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/opendata/0000003010_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="38">
+        <documentname>Playa de Ogeia</documentname>
+        <turismdescription>La playa de Ogeia se halla en el municipio de Ispaster, en la costa oriental de Bizkaia. Esta apa...</turismdescription>
+        <turismdescription>La playa de Ogeia se halla en el municipio de Ispaster, en la costa oriental de Bizkaia. Esta apacible y tranquila playa salvaje, compuesta de  piedras y arena, llama la atención por un peculiar fenómeno geológico denominado &amp;lt;em&amp;gt;flysch&amp;lt;/em&amp;gt;, rocas calizas y areniscas en láminas que se alternan con otros materiales como la arcilla.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;De dimensiones pequeñas, la extensión de esta playa varía mucho entre la bajamar y la pleamar. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Por otro lado, en sus aguas, es muy habitual ver a surfistas sobre sus tablas desafiando a las olas. Ogeia es un excelente point break de olas izquierdas y derechas. La derecha presenta secciones rápidas y tubulares finalizando en las rocas. La izquierda es más larga y maniobrable. Hay que tener cuidado en la entrada y en la salida debido a las hileras de roca. Puede aguantar hasta 2 metros y necesita de un swell grande para empezar a romper.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;La playa también es muy frecuentada por los amantes del submarinismo.&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3732369638364,-2.54573822021484</latitudelongitude>
+        <latwgs84>43.3732369638364</latwgs84>
+        <lonwgs84>-2.54573822021484</lonwgs84>
+        <municipality>Ispaster</municipality>
+        <municipalitycode>049</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-ogella/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003027_g1_rec_turismo/es_3027/3027-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/es_3027/data/3027_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/r01Index/0000003027_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/opendata/0000003027_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="39">
+        <documentname>Playa de Malkorbe</documentname>
+        <turismdescription>La playa de Malkorbe es uno de los dos arenales que tiene Getaria. Está situada cerca del casco u...</turismdescription>
+        <turismdescription>La playa de Malkorbe es uno de los dos arenales que tiene Getaria. Está situada cerca del casco urbano, justo al lado del puerto deportivo que permite el atraque de yates y veleros.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Con vistas sobre el monte San Antón, más conocido como El Ratón de Getaria por su peculiar forma, esta coqueta y tranquila playa de 420 metros de longitud no presenta mucho oleaje. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dispone de diversos servicios, como fuentes, aseos públicos, duchas, accesos a personas discapacitadas, juegos infantiles, etc. Además, es una playa vigilada, rodeada de servicios hosteleros, ideal para pasar una agradable jornada entre amigos o en familia.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Asimismo, cuenta con una zona deportiva donde poder practicar varias actividades como voleibol, piragüismo, submarinismo y windsurf.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.301297,-2.2021</latitudelongitude>
+        <latwgs84>43.301297</latwgs84>
+        <lonwgs84>-2.2021</lonwgs84>
+        <municipality>Getaria</municipality>
+        <municipalitycode>039</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-malkorbe/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003002_g1_rec_turismo/es_3002/3002-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/es_3002/data/3002_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/r01Index/0000003002_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/opendata/0000003002_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="40">
+        <documentname>Playa de Meñakoz</documentname>
+        <turismdescription>Ideal para quienes busquen espacios solitarios y tranquilos, la playa salvaje de Meñakoz pertenec...</turismdescription>
+        <turismdescription>Ideal para quienes busquen espacios solitarios y tranquilos, la playa salvaje de Meñakoz pertenece a Barrika, aunque se encuentra algo alejada del centro urbano, cerca de la carretera que se dirige hacia Sopelana.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En sus 400 metros de longitud, esta playa nudista cuenta con poca arena y abundante piedra. Está abierta al mar, por lo que es muy frecuentada por los amantes del surf, que acuden a esta playa con su tabla a coger olas.  &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Acoge una ola grande de fama mundial, sólo para expertos. Se trata de una derecha que aguanta gran tamaño, 5-6 metros surfeables, con mucha fuerza y secciones tuberas. Rompe enfrente de un acantilado y las rocas acentúan su peligrosidad. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Además, este tramo de la costa vizcaína nos brinda la posibilidad de realizar agradables paseos por sus espectaculares acantilados, cubiertos de un manto verde, que llaman la atención por su belleza.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Goierri | Diseminado</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3951630640074,-2.98562049865723</latitudelongitude>
+        <latwgs84>43.3951630640074</latwgs84>
+        <lonwgs84>-2.98562049865723</lonwgs84>
+        <municipality>Barrika</municipality>
+        <municipalitycode>014</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-menakoz/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000009566_g1_rec_turismo/es_9566/9566-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/es_9566/data/9566_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/r01Index/0000009566_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/opendata/0000009566_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="41">
+        <documentname>Playa de Plentzia</documentname>
+        <turismdescription>Contigua a la playa de Gorliz, es uno de los arenales más frecuentados de la costa vizcaína. La p...</turismdescription>
+        <turismdescription>Contigua a la playa de Gorliz, es uno de los arenales más frecuentados de la costa vizcaína. La playa se encuentra en una preciosa bahía, junto a la desembocadura de la ría y muy cerca del casco urbano. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Un paseo marítimo rodea este arenal de fina arena dorada. De aguas tranquilas, es ideal para familias con niños y para aquellos que desean practicar deportes acuáticos como windsurf, surf o piragüismo.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Su ola es una de las mejores alternativas cuando las condiciones son adversas y el mar está desfasado. Se trata de una ola ideal para la iniciación y el desarrollo del surf de los más pequeños. Es una izquierda larga y maniobrable que se deja surfear. La playa cuenta con dos escuelas que operan todo el año.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.4112828877988,-2.94708251953125</latitudelongitude>
+        <latwgs84>43.4112828877988</latwgs84>
+        <lonwgs84>-2.94708251953125</lonwgs84>
+        <municipality>Plentzia</municipality>
+        <municipalitycode>077</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-plentzia/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003024_g1_rec_turismo/es_3024/3024-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/es_3024/data/3024_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/r01Index/0000003024_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/opendata/0000003024_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="42">
+        <documentname>Playa de San Antonio</documentname>
+        <turismdescription>La playa de San Antonio se encuentra entre las localidades de Busturia y Sukarrieta, en la margen...</turismdescription>
+        <turismdescription>La playa de San Antonio se encuentra entre las localidades de Busturia y Sukarrieta, en la margen izquierda de la ría de Mundaka. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Protegida por la isla Sandindere, esta playa ofrece en sus casi 200 metros de arena dorada la posibilidad de practicar actividades como voleibol, windsurf, vela...&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;San Antonio está bien equipada, con aseos, duchas, lavapies, guardabiciletas, etc. Además, es un lugar tranquilo, muy recomendable para familias con niños, pues cuenta con una hermosa área recreativa junto a la playa, dotada de instalaciones infantiles, mesas, bancos, etc.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <municipality>Sukarrieta Busturia</municipality>
+        <municipalitycode>076 021</municipalitycode>
+        <territory>Bizkaia Bizkaia</territory>
+        <territorycode>48 48</territorycode>
+        <country>España España</country>
+        <countrycode>108 108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-san-antonio/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003025_g1_rec_turismo/es_3025/3025-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/es_3025/data/3025_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/r01Index/0000003025_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/opendata/0000003025_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="43">
+        <documentname>Playa de Ondarbeltz</documentname>
+        <turismdescription>Tal y como indica su nombre en euskera, esta playa de aguas tranquilas está compuesta de una aren...</turismdescription>
+        <turismdescription>Tal y como indica su nombre en euskera, esta playa de aguas tranquilas está compuesta de una arena fina y oscura. A pesar de pertenecer al término municipal de Mutriku, Ondarbeltz se sitúa más cerca del casco urbano de Deba, en la margen izquierda de la desembocadura de la ría que da nombre a la localidad costera.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;La playa, de 120 metros de longitud, tiene unas instalaciones completas, con duchas y aseos públicos. También hay un bar, un área de juegos infantiles, frontón y aparcamiento.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Además de disfrutar del sol y del mar, se pueden practicar varias actividades deportivas, como windsurf y piragüismo.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.301412,-2.357451</latitudelongitude>
+        <latwgs84>43.301412</latwgs84>
+        <lonwgs84>-2.357451</lonwgs84>
+        <municipality>Mutriku</municipality>
+        <municipalitycode>056</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-ondarbeltz/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002986_g1_rec_turismo/es_2986/2986-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/es_2986/data/2986_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/r01Index/0000002986_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/opendata/0000002986_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="44">
+        <documentname>Playa de Ondarreta</documentname>
+        <turismdescription>Situada en el extremo oeste de la capital donostiarra, al abrigo del monte Igeldo y frente a la i...</turismdescription>
+        <turismdescription>Situada en el extremo oeste de la capital donostiarra, al abrigo del monte Igeldo y frente a la isla de Santa Clara, esta playa de fina arena dorada es una de las más elegantes de Gipuzkoa. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Ondarreta, con sus 600 metros de longitud, dispone de una variada oferta deportiva. Durante los meses de verano, se organizan cursos de natación y voleibol. Asimismo, es posible practicar numerosas actividades acuáticas y posee, además, amplias y modernas instalaciones. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Ondarreta cuenta con un par de izquierdas que rompen junto al paseo oeste de la playa. Izquierdas rápidas e intensas. Es un spot alternativo para los días de maretón y condiciones adversas, está protegida de los vientos del oeste. De gran vistosidad ya que los paseantes están literalmente encima de los surfistas.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Precisamente, está unida a las playas de La Concha y La Zurriola a través de un paseo marítimo de 7 kilómetros que termina cerca de Ondarreta, en el Peine del Viento, espacio mágico donde contemplaremos las esculturas de acero de Eduardo Chillida que se agarran a las rocas, desafiando a las olas del mar.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Donostia / San Sebastián</locality>
+        <marks>Costa Vasca,San Sebastián</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.317184915667,-2.00277328491211</latitudelongitude>
+        <latwgs84>43.317184915667</latwgs84>
+        <lonwgs84>-2.00277328491211</lonwgs84>
+        <municipality>Donostia / San Sebastián</municipality>
+        <municipalitycode>069</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-ondarreta/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002990_g1_rec_turismo/es_2990/2990-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/es_2990/data/2990_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/r01Index/0000002990_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/opendata/0000002990_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="45">
+        <documentname>Playa de Toña</documentname>
+        <turismdescription>Protegida por la isla de Txatxarramendi, esta tranquila y acogedora cala se asoma a la ría de Mun...</turismdescription>
+        <turismdescription>Protegida por la isla de Txatxarramendi, esta tranquila y acogedora cala se asoma a la ría de Mundaka. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;La playa de Toña está ubicada en el municipio vizcaíno de Sukarrieta, muy cerca del casco urbano. De aguas tranquilas, es muy recomendable para familias con niños. Dispone de numerosos servicios  aseos, duchas, fuentes, lavapies, guardabicicletas, hondartzainas, además de un bar y un aparcamiento a pie de playa.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En las inmediaciones, existe un parque equipado con instalaciones infantiles, mesas y bancos. En este pequeño arenal también se pueden practicar diversos deportes como voleibol, vela y windsurf.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3910778627597,-2.69182205200195</latitudelongitude>
+        <latwgs84>43.3910778627597</latwgs84>
+        <lonwgs84>-2.69182205200195</lonwgs84>
+        <municipality>Sukarrieta</municipality>
+        <municipalitycode>076</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-tona/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002985_g1_rec_turismo/es_2985/2985-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/es_2985/data/2985_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/r01Index/0000002985_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/opendata/0000002985_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="46">
+        <documentname>Playa de Zarautz</documentname>
+        <turismdescription>La playa de Zarautz llama especialmente la atención por su extensa longitud,   con 2.500 metros d...</turismdescription>
+        <turismdescription>La playa de Zarautz llama especialmente la atención por su extensa longitud,   con 2.500 metros de fina arena dorada. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Este hermoso arenal, con sus llamativos toldos, cuenta con un animado paseo marítimo repleto de bares, cafeterías y restaurantes. La playa está abierta al mar y es muy conocida por las olas que allí se forman, pues sirven de reclamo para surfistas que provienen de muchos lugares del mundo. De hecho, Zarautz posee una de las mejores canteras de surfistas de toda Europa.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Es la playa más extensa de la costa vasca y cuenta con multitud de rompientes. Es ideal para la iniciación en el surf y cuenta con cinco escuelas, su club de surf es uno de los más activos de la costa. Alberga varias competiciones a lo largo del año, destacando el mundial WQS que se celebra en el mes de septiembre. De oeste a este destacan los picos del puerto, (el cual rompe cuando hay mar de más de dos metros) Argiñano, verdadero epicentro de la playa y El canal, una zona más alejada en la punta este que da sesiones de calidad. El ambiente surfero de Zarautz es increíble, destacando las zonas de Argiñano y el pueblo.&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.28770636426836,-2.1728876364929874</latitudelongitude>
+        <latwgs84>43.28770636426836</latwgs84>
+        <lonwgs84>-2.1728876364929874</lonwgs84>
+        <municipality>Zarautz</municipality>
+        <municipalitycode>079</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-zarautz/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000005282_g1_rec_turismo/es_5282/5282-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/es_5282/data/5282_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/r01Index/0000005282_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/opendata/0000005282_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="47">
+        <documentname>Playa de Santiago</documentname>
+        <turismdescription>La playa de Santiago está situada en las afueras de Zumaia, entre las marismas de la desembocadur...</turismdescription>
+        <turismdescription>La playa de Santiago está situada en las afueras de Zumaia, entre las marismas de la desembocadura del río Urola y la carretera N-634 que lleva a Getaria.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Este extenso arenal, de 350 metros de longitud y 175 metros de ancho, dispone de una zona verde con un área de juegos infantiles y bar, ideal para pasar una agradable jornada en familia o entre amigos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Cuenta con instalaciones como duchas y aseos públicos, además de un servicio de asistencia e información y zonas para aparcar junto a la carretera. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;La playa de Santiago, de aguas tranquilas, presenta en ocasiones algo de oleaje. El visitante tendrá la oportunidad de practicar numerosas actividades acuáticas como windsurf y piragüismo. Asimismo, existe la opción de alquilar pedalos y dar un agradable paseo en el mar. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.30194579605323,-2.2511672973632812</latitudelongitude>
+        <latwgs84>43.30194579605323</latwgs84>
+        <lonwgs84>-2.2511672973632812</lonwgs84>
+        <municipality>Zumaia</municipality>
+        <municipalitycode>081</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-santiago/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003016_g1_rec_turismo/es_3016/3016-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/es_3016/data/3016_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/r01Index/0000003016_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/opendata/0000003016_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="48">
+        <documentname>Playa de Saturraran</documentname>
+        <turismdescription>Emplazado en el extremo occidental del litoral guipuzcoano, lindando con Bizkaia, la playa de Sat...</turismdescription>
+        <turismdescription>Emplazado en el extremo occidental del litoral guipuzcoano, lindando con Bizkaia, la playa de Saturraran forma parte de un bello entorno. Las olas llegan con fuerza hasta este arenal que destaca por el peculiar perfil de dos peñascos que, según cuenta la leyenda, adoptaron la forma de dos amantes, Satur y Aran.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El color dorado predomina a lo largo de sus 300 metros. La playa cuenta, entre otros servicios, con un amplio aparcamiento, un bar donde sirven comidas a pie de playa, un camping en las inmediaciones y una zona nudista.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Además, los aficionados al deporte tienen aquí la oportunidad de practicar numerosas actividades acuáticas como piragüismo o windsurf. Quien prefiera pasear tiene dos opciones, caminar a lo largo de la orilla o seguir el paseo que comunica Saturraran con la playa de la vecina Ondarroa.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.3218058607707,-2.41098403930664</latitudelongitude>
+        <latwgs84>43.3218058607707</latwgs84>
+        <lonwgs84>-2.41098403930664</lonwgs84>
+        <municipality>Mutriku</municipality>
+        <municipalitycode>056</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-saturraran/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003015_g1_rec_turismo/es_3015/3015-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/es_3015/data/3015_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/r01Index/0000003015_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/opendata/0000003015_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="49">
+        <documentname>Playas de Arrietara y Atxabiribil</documentname>
+        <turismdescription>Las amplias y tranquilas playas de Arrietara y Atxabiribil, en Sopela, comparten arena, aunque no...</turismdescription>
+        <turismdescription>Las amplias y tranquilas playas de Arrietara y Atxabiribil, en Sopela, comparten arena, aunque no hay delimitación entre la una y la otra. Protegidas por varios acantilados, ofrecen al visitante la posibilidad de realizar numerosas actividades, entre ellas el surf.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Arrietara es el epicentro del surf en esta zona, alberga importantes citas deportivas como el Mundial IBATOUR de Bodyboard o distintos campeonatos ASP. Cuenta con una media docena de clubes y tres escuelas. La playa ofrece varios picos tipo &amp;lt;em&amp;gt;beach break&amp;lt;/em&amp;gt;, El Pasillo, una izquierda larga que rompe sobre arena y rocas que produce secciones muy verticales. Sope atrás, otra izquieda larga con un &amp;lt;em&amp;gt;take off&amp;lt;/em&amp;gt; agresivo que funciona sólo en marea baja. Larrabasterra, un pico de izquierdas y derechas, con olas de gran calidad sobre todo en marea media y alta, la denominada El Surf... Todas estas olas funcionan con distintas mareas y swells. Esta playa está orientada al noroeste y recibe mucho mar.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Atxabiribil, también conocida como El Peñón, es una zona de olas de playa que rompen sobre rocas. Funciona con todas las mareas y hay olas izquierdas y derechas, siendo un tanto mejores estas últimas, aunque todo depende de la dirección del swell y los fondos de arena. Alberga importantes citas deportivas como la prueba Projunior del circuito europeo ASP.&amp;lt;br/&amp;gt;Recoge todo tipo de swell y la frecuencia de olas es alta. Cerca se encuentra la ola El Sitio, un point break de izquierdas que en marea baja puede aguantar hasta 2 metros.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.389749,-2.992836</latitudelongitude>
+        <latwgs84>43.389749</latwgs84>
+        <lonwgs84>-2.992836</lonwgs84>
+        <municipality>Sopela</municipality>
+        <municipalitycode>085</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playas-de-arrietara-y-atxabiribil/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003005_g1_rec_turismo/es_3005/3005-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/es_3005/data/3005_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/r01Index/0000003005_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/opendata/0000003005_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="50">
+        <documentname>Playa del Puerto (Mutriku)</documentname>
+        <turismdescription>Tal y como su propio nombre indica, esta pequeña playa urbana se sitúa junto al puerto de Mutriku...</turismdescription>
+        <turismdescription>Tal y como su propio nombre indica, esta pequeña playa urbana se sitúa junto al puerto de Mutriku, cerca del casco viejo de la localidad costera, declarado Conjunto Monumental.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Tiene 180 metros de largo, una arena de color dorada y un fuerte oleaje, y es posible practicar diversos deportes acuáticos como piragüismo, windsurf, buceo o el snorkel.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;En las inmediaciones, hay dos piscinas naturales -una de ellas de tamaño olímpico-, bares y restaurantes, además de duchas, aseos públicos, vestuarios y una zona de juegos infantiles que se instala en época estival.&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.310945042006956,-2.380482422584464</latitudelongitude>
+        <latwgs84>43.310945042006956</latwgs84>
+        <lonwgs84>-2.380482422584464</lonwgs84>
+        <municipality>Mutriku</municipality>
+        <municipalitycode>056</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-del-puerto-mutriku/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003009_g1_rec_turismo/es_3009/3009-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/es_3009/data/3009_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/r01Index/0000003009_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/opendata/0000003009_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="51">
+        <documentname>Playa de la Zurriola</documentname>
+        <turismdescription>La playa de la Zurriola se halla en el barrio donostiarra de Gros, bajo la atenta mirada del Pala...</turismdescription>
+        <turismdescription>La playa de la Zurriola se halla en el barrio donostiarra de Gros, bajo la atenta mirada del Palacio de Congresos y Auditorio Kursaal. Antiguamente, estuvo formada por grandes arenales ubicados entre la desembocadura del río Urumea y el monte Ulía. En la década de los 90, comenzaron los trabajos de rehabilitación y se procedió a la construcción de la actual playa, de fina arena dorada y fuerte oleaje.&amp;lt;br/&amp;gt; &amp;lt;br/&amp;gt;La playa más surfera de la capital, cuenta con olas de calidad, destacando la derecha de Monpas y El Centro, con derechas e izquierdas intensas. Monpas puede generar buenas secciones tuberas y es la ola de más fuerza, mientras que El Centro genera principalmente izquierdas en marea baja y buenas derechas a medida que sube la marea. Es una playa que recoge mucho mar y funciona en todas las mareas. En esta playa se desarrollan importantes eventos de surf como la prueba europea Projunior ASP que se celebra en julio. La playa cuenta con un club de surf local y cuatro escuelas de surf, por lo que es ideal para la iniciación. &amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Donostia / San Sebastián</locality>
+        <marks>Costa Vasca,San Sebastián</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.327175706778,-1.97359085083008</latitudelongitude>
+        <latwgs84>43.327175706778</latwgs84>
+        <lonwgs84>-1.97359085083008</lonwgs84>
+        <municipality>Donostia / San Sebastián</municipality>
+        <municipalitycode>069</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-la-zurriola/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000002999_g1_rec_turismo/es_2999/2999-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/es_2999/data/2999_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/r01Index/0000002999_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/opendata/0000002999_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="52">
+        <documentname>Playa de la Isla de Santa Clara</documentname>
+        <turismdescription>Este pequeño arenal se encuentra en el costado del embarcadero de la Isla de Santa Clara, en el c...</turismdescription>
+        <turismdescription>Este pequeño arenal se encuentra en el costado del embarcadero de la Isla de Santa Clara, en el centro de la bahía de La Concha. Aparece sólo durante unas horas al día, con bajamar, permaneciendo totalmente sumergido cuando la marea está alta. Se puede acceder a la playa en embarcación, utilizando el servicio de motoras de la Isla de Santa Clara.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>Donostia / San Sebastián</locality>
+        <marks>Costa Vasca,San Sebastián</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.32071050956413,-1.9996527338684018</latitudelongitude>
+        <latwgs84>43.32071050956413</latwgs84>
+        <lonwgs84>-1.9996527338684018</lonwgs84>
+        <municipality>Donostia / San Sebastián</municipality>
+        <municipalitycode>069</municipalitycode>
+        <territory>Gipuzkoa</territory>
+        <territorycode>20</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-la-isla-de-santa-clara/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000056581_g1_rec_turismo/es_56581/56581-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/es_56581/data/56581_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/r01Index/0000056581_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/opendata/0000056581_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="53">
+        <documentname>Zierbena-Puerto</documentname>
+        <turismdescription>Situada en la costa occidental de Bizkaia, esta playa artificial de tan sólo 100 metros de longit...</turismdescription>
+        <turismdescription>Situada en la costa occidental de Bizkaia, esta playa artificial de tan sólo 100 metros de longitud se encuentra en el propio puerto pesquero de Zierbena.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Esta pequeña playa se asoma en bajamar. Sus aguas tranquilas son seguras para los bañistas y sobre todo, para los más pequeños. En verano, dispone de varios servicios, como duchas, hondartzainas, socorristas...&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;El lugar mantiene su encanto y cierto sabor marinero, con barcos de pesca y de recreo atracados en el puerto y los típicos restaurantes y asadores en las inmediaciones que despiden un delicioso aroma de pescados cocinados a la brasa.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Además de poder tomar el sol y un agradable baño, la playa de Zierbena ofrece al visitante la posibilidad de realizar actividades como piragüismo y vela.</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <locality>El Puerto</locality>
+        <marks>Costa Vasca</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <latitudelongitude>43.350007,-3.077422</latitudelongitude>
+        <latwgs84>43.350007</latwgs84>
+        <lonwgs84>-3.077422</lonwgs84>
+        <municipality>Zierbena</municipality>
+        <municipalitycode>913</municipalitycode>
+        <territory>Bizkaia</territory>
+        <territorycode>48</territorycode>
+        <country>España</country>
+        <countrycode>108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/zierbena-puerto/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000003023_g1_rec_turismo/es_3023/3023-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/es_3023/data/3023_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/r01Index/0000003023_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/opendata/0000003023_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="54">
+        <documentname>Playas de Garaio</documentname>
+        <turismdescription>En Euskadi no es imprescindible acercarse al mar para disfrutar de magníficas playas. A unos 15 k...</turismdescription>
+        <turismdescription>En Euskadi no es imprescindible acercarse al mar para disfrutar de magníficas playas. A unos 15 km de Vitoria-Gasteiz el embalse de Ullibarri-Gamboa acoge varias playas interiores. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Es el caso de las dos playas de Garaio Sur y Garaio Norte rodeadas de zonas arboladas y de esparcimiento que forman el parque de Garaio, con 116 Hectáreas de superficie. Sus dos playas suman 2.600 metros de longitud. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Entre junio y agosto  disponen de servicio de socorristas,  duchas y plataformas de baño para personas con discapacidad. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Han sido reconocidas con bandera azul por la calidad de sus aguas, la accesibilidad, la información ambiental dirigida a sus usuarios y la existencia de servicios sanitarios y de salvamento, entre otros.&amp;lt;br/&amp;gt;</turismdescription>
+        <templatetype>Playas, pantanos y ríos</templatetype>
+        <marks>Vitoria-Gasteiz</marks>
+        <physical>0</physical>
+        <visual>0</visual>
+        <auditive>0</auditive>
+        <intellectual>0</intellectual>
+        <organic>0</organic>
+        <naturetype>Playas</naturetype>
+        <municipality>Barrundia Elburgo/Burgelu</municipality>
+        <municipalitycode>013 021</municipalitycode>
+        <territory>Araba/Álava Araba/Álava</territory>
+        <territorycode>01 01</territorycode>
+        <country>España España</country>
+        <countrycode>108 108</countrycode>
+        <friendlyurl>https://opendata.euskadi.eus/datos/-/es/playas-embalses-rios/playa-de-garaio/</friendlyurl>
+        <physicalurl>https://opendata.euskadi.eus/datos/contenidos/g_naturaleza/0000085221_g1_rec_turismo/es_85221/85221-ficha2.html</physicalurl>
+        <dataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/es_85221/data/85221_openData.xml</dataxml>
+        <metadataxml>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/r01Index/0000085221_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>https://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/opendata/0000085221_g1_rec_turismo.zip</zipfile>
+    </row>
+</rows>
