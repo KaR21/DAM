@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE banco [
+<!ELEMENT banco (cuenta+, cliente+)>
+<!ELEMENT cuenta (numero-cuenta,saldo)>
+<!ELEMENT numero-cuenta (#PCDATA)>
+<!ELEMENT saldo (#PCDATA)>
+<!ELEMENT cliente (nombre-cliente,tfno+)>
+<!ELEMENT nombre-cliente (#PCDATA)>
+<!ELEMENT tfno (#PCDATA)>
+]>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE diccionario [
+<!ELEMENT diccionario (articulo)+>
+<!ELEMENT articulo (entrada, conjugacion?, categoria, acepcion+)>
+<!ELEMENT entrada (#PCDATA|entradaVerbal)*>
+<!ELEMENT entradaVerbal (part, inf, ger)>
+<!ELEMENT part (#PCDATA)>
+<!ELEMENT inf (#PCDATA)>
+<!ELEMENT ger (#PCDATA)>
+<!ATTLIST entrada codigo ID #REQUIRED >
+<!ELEMENT conjugacion (#PCDATA)>
+<!ELEMENT acepcion (numero, categoria?, definicion, (ver | ejemplos)*)>
+<!-- Esta definicion permite que los elementos ver y ejemplos puedan aparecer en cualquier orden, 0 o mas veces; esta otra definicion seria mucho mas rigida: <!ELEMENT acepcion (numero, categoria?, definicion, ver?, ejemplos*)>-->
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT definicion (#PCDATA)>
+<!ELEMENT ver (#PCDATA)>
+<!ATTLIST ver codigo IDREF #REQUIRED >
+<!ELEMENT ejemplos (ejemplo)+>
+<!ELEMENT ejemplo (#PCDATA)>
+]>

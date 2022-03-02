@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/xsl" href="peliculaStyle.xsl"?>
+    <peliculas>
+        <pelicula genero="comedia">
+            <titulo>Raising Arizona</titulo>
+            <autor>Ethan Coen</autor>
+            <autor>Joel Coen</autor>
+            <productor>Ethan Coen</productor>
+            <director>Joel Coen</director>
+            <interprete>Nicolas Cage</interprete>
+            <interprete>Holly Hunter</interprete>
+            <interprete>John Goodman</interprete>
+            <comentario>Una historia de amor con final inesperado.</comentario>
+        </pelicula>
+
+        <pelicula genero="comedia">
+            <titulo>Midnight Run</titulo>
+            <autor>George Gallo</autor>
+            <productor>Martin Brest</productor>
+            <director>Martin Brest</director>
+            <interprete>Robert De Niro</interprete>
+            <interprete>Charles Grodin</interprete>
+        </pelicula>
+
+        <pelicula genero="misterio">
+            <titulo>The Usual Suspects</titulo>
+            <autor>Christopher McQuarrie</autor>
+            <productor>Bryan Singer</productor>
+            <productor>Michael McDonnell</productor>
+            <director>Bryan Singer</director>
+            <interprete>Stephen Baldwin</interprete>
+            <interprete>Gabriel Byrne</interprete>
+            <interprete>Benicio Del Toro</interprete>
+            <interprete>Chazz Palminteri</interprete>
+            <interprete>Kevin Pollak</interprete>
+            <interprete>Kevin Spacey</interprete>
+            <comentario>Un ajuste de cuentas. Un argumento retorcido.</comentario>
+        </pelicula>
+
+        <pelicula genero="ciencia-ficcion">
+            <titulo>The Abyss</titulo>
+            <autor>James Cameron</autor>
+            <productor>Gale Anne Hurd</productor>
+            <director>James Cameron</director>
+            <interprete>Ed Harris</interprete>
+            <interprete>Mary Elizabeth Mastrantonio</interprete>
+            <comentario>Una situacion comprometida bajo el mar.</comentario>
+        </pelicula>
+    </peliculas>

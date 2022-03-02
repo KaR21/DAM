@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<peliculas>
+  <pelicula tipo="comedia">
+    <titulo>Raising Arizona</titulo>
+    <anno>1987</anno>
+    <pais>EEUU</pais>
+    <direccion>Joel Coen</direccion>
+    <produccion>Ethan Coen</produccion>
+    <guion>Ethan Coen</guion>
+    <guion>Joel Coen</guion>
+    <interpretes>
+      <interprete>
+        <nombre>Nicolas Cage</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Holly Hunter</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>John Goodman</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+    </interpretes>
+    <premios>
+      <premio>
+        <denominacion>Young Artist Award</denominacion>
+        <lugar>EEUU</lugar>
+        <annoEdicion>1988</annoEdicion>
+      </premio>
+    </premios>
+    <notas>Historia de amor con final sorprendente.</notas>
+  </pelicula>
+  <pelicula tipo="comedia">
+    <titulo>Midnight Run</titulo>
+    <anno>1988</anno>
+    <pais>EEUU</pais>
+    <direccion>Martin Brest</direccion>
+    <produccion>Martin Brest</produccion>
+    <guion>George Gallo</guion>
+    <interpretes>
+      <interprete>
+        <nombre>Robert De Niro</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Charles Grodin</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+    </interpretes>
+    <premios>
+      <premio>
+        <denominacion>Mejor actor o actriz</denominacion>
+        <lugar>EEUU</lugar>
+        <annoEdicion>1988</annoEdicion>
+      </premio>
+      <premio>
+        <denominacion>Golden Globe</denominacion>
+        <lugar>EEUU</lugar>
+        <annoEdicion>1989</annoEdicion>
+      </premio>
+    </premios>
+  </pelicula>
+  <pelicula tipo="misterio">
+    <titulo>The Usual Suspects</titulo>
+    <anno>1995</anno>
+    <pais>EEUU</pais>
+    <direccion>Bryan Singer</direccion>
+    <produccion>Bryan Singer</produccion>
+    <produccion>Michael McDonnell</produccion>
+    <guion>Christopher McQuarrie</guion>
+    <interpretes>
+      <interprete>
+        <nombre>Stephen Baldwin</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Gabriel Byrne</nombre>
+        <paisOrigen>Irlanda</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Benicio Del Toro</nombre>
+        <paisOrigen>Puerto Rico</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Chazz Palminteri</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Kevin Pollak</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+      <interprete>
+        <nombre>Kevin Spacey</nombre>
+        <paisOrigen>EEUU</paisOrigen>
+      </interprete>
+    </interpretes>
+    <premios>
+      <premio>
+        <denominacion>Oscar Best interprete in a Supporting Role</denominacion>
+        <lugar>?</lugar>
+        <annoEdicion>1996</annoEdicion>
+      </premio>
+      <premio>
+        <denominacion>Oscar Best Writing</denominacion>
+        <lugar>?</lugar>
+        <annoEdicion>1996</annoEdicion>
+      </premio>
+      <premio>
+        <denominacion>Saturn Award Best Music</denominacion>
+        <lugar>EEUU</lugar>
+        <annoEdicion>1996</annoEdicion>
+      </premio>
+    </premios>
+    <notas>Sobre un asesinato que se complica.</notas>
+  </pelicula>
+</peliculas>

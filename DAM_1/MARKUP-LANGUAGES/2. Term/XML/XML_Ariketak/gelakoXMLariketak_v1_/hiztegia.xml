@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE diccionario SYSTEM "hiztegia.dtd">
+<diccionario>
+    <articulo>
+        <entrada codigo="id_1">part</entrada>
+        <conjugacion>Beber</conjugacion>
+        <categoria>Futuro</categoria>
+        <acepcion>
+            <numero>1</numero>
+            <categoria>Futuro</categoria>
+            <definicion>qwerty</definicion>
+            <ver codigo = "id_1">asdw</ver>
+        </acepcion>
+    </articulo>  
+</diccionario>

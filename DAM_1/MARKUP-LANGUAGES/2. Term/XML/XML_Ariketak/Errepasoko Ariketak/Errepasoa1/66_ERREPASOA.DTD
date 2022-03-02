@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE products [
+<!ELEMENT products (product*)>
+<!ELEMENT product (name, price, stock, country)>
+    <!ATTLIST product id CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+]>

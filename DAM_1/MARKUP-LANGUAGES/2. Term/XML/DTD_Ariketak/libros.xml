@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE Liburuak [
+<!ELEMENT Liburuak (liburua)+>
+<!ELEMENT liburua (izenburua,idazlea*,isbn*,prezioa*)>
+<!ELEMENT izenburua (#PCDATA)>
+<!ELEMENT idazlea (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT prezioa (#PCDATA)>
+]>
+<Liburuak>
+    <liburua>
+        <izenburua>Cazadores de Sombras: Ciudad de Hueso</izenburua>
+        <idazlea>Cassandra Clare</idazlea>
+        <isbn>9781416914280</isbn>
+        <prezioa>19.99</prezioa>
+    </liburua>
+
+    <liburua>
+        <izenburua>La maquina del tiempo</izenburua>
+        <idazlea>Herbert George Wells</idazlea>
+        <idazlea>John Gallager</idazlea>
+        <isbn>9781451914280</isbn>
+        <prezioa>19.99</prezioa>
+    </liburua>
+
+    <liburua>
+        <izenburua>Justicia auxiliar</izenburua>
+        <idazlea>Ann Leckie</idazlea>
+        <prezioa>19.99</prezioa>
+    </liburua>
+
+    <liburua>
+        <izenburua>Justicia</izenburua>
+        <idazlea>Ann Leckie</idazlea>
+        <isbn>97812116914280</isbn>
+        <prezioa>19.99</prezioa>
+        <prezioa>29.99</prezioa>
+    </liburua>
+
+    <liburua>
+        <izenburua>Auxiliar</izenburua>
+        <idazlea>Ann Leckie</idazlea>
+        <isbn>97812516914280</isbn>
+    </liburua>
+</Liburuak>

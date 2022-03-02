@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type ="text/xsl" href="bankuaStyle.xsl"?>
+<banco>
+    <cuenta>
+        <numero-cuenta>222</numero-cuenta>
+        <saldo>10000</saldo>
+    </cuenta>
+    <cliente>
+        <nombre-cliente>Maite</nombre-cliente>
+        <tfno>888222111</tfno>
+    </cliente>
+    <cuenta>
+        <numero-cuenta>111</numero-cuenta>
+        <saldo>1000</saldo>
+    </cuenta>
+    <cliente>
+        <nombre-cliente>Pepe</nombre-cliente>
+        <tfno>999111111</tfno>
+    </cliente>
+    <cliente>
+        <nombre-cliente>Ana</nombre-cliente>
+        <tfno>999555555</tfno>
+        <tfno>943015555</tfno>
+    </cliente>
+</banco>

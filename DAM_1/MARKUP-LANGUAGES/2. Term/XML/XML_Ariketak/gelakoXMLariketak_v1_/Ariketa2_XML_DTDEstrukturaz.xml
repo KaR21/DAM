@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE Liburuak [
+<!ELEMENT Liburuak (liburua)+>
+<!ELEMENT liburua (izenburua,idazlea,editoriala,isbn,orriak)>
+<!ELEMENT izenburua (#PCDATA)>
+<!ELEMENT idazlea (#PCDATA)>
+<!ELEMENT editoriala (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT orriak (#PCDATA)>
+]>
+<Liburuak>
+    <liburua>
+        <izenburua>Cazadores de Sombras: Ciudad de Hueso</izenburua>
+        <idazlea>Cassandra Clare</idazlea>
+        <editoriala>Simon and Schuster</editoriala>
+        <isbn>9781416914280</isbn>
+        <orriak>621</orriak>
+    </liburua>
+
+    <liburua>
+        <izenburua>La maquina del tiempo</izenburua>
+        <idazlea>Herbert George Wells</idazlea>
+        <editoriala>Planeta</editoriala>
+        <isbn>9781451914280</isbn>
+        <orriak>211</orriak>
+    </liburua>
+
+    <liburua>
+        <izenburua>Justicia auxiliar</izenburua>
+        <idazlea>Ann Leckie</idazlea>
+        <editoriala>abc</editoriala>
+        <isbn>9781444214280</isbn>
+        <orriak>112</orriak>
+    </liburua>
+</Liburuak>

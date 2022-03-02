@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Ikasleak>
+    <ikaslea>
+        <izena>Ane</izena>
+        <abizena>Alberdi</abizena>
+        <telefonoa>111111111</telefonoa>
+        <jaiotza_data urtea = "2001" hilabete = "03" eguna = "14" done = "2001/03/14"></jaiotza_data>
+    </ikaslea>
+
+    <ikaslea>
+        <izena>Andoni</izena>
+        <abizena>Moreno</abizena>
+        <telefonoa>222222222</telefonoa>
+        <jaiotza_data urtea = "2001" hilabete = "08" eguna = "02" done = "2001/08/02"></jaiotza_data>
+    </ikaslea>
+
+    <ikaslea>
+        <izena>Fernando</izena>
+        <abizena>Alonso</abizena>
+        <telefonoa>333333333</telefonoa>
+        <jaiotza_data urtea = "1992" hilabete = "03" eguna = "14" done = "1992/03/14"></jaiotza_data>
+    </ikaslea>
+    
+    <ikaslea>
+        <izena>Karmele</izena>
+        <abizena>Elorza</abizena>
+        <telefonoa>212121211</telefonoa>
+        <jaiotza_data urtea = "2001" hilabete = "02" eguna = "21" done = "2001/02/21"></jaiotza_data>
+    </ikaslea>
+</Ikasleak>

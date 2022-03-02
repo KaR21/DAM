@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/xsl" href="liburutegiaStyle.xsl"?>
+<liburutegia>
+    <liburua>
+        <izenburua>El señor de los anillos</izenburua>
+        <idazlea> J. R. R. Tolkien</idazlea>
+        <editoriala>anaya</editoriala>
+        <isbn>15747895</isbn>
+        <orriak>1234</orriak>
+    </liburua>
+    <liburua>
+        <izenburua> La caída de los gigantes</izenburua>
+        <idazlea> Ken Follett</idazlea>
+        <editoriala> PLAZA -JANES</editoriala>
+        <isbn>15745478</isbn>
+        <orriak>987</orriak>
+    </liburua>
+</liburutegia>

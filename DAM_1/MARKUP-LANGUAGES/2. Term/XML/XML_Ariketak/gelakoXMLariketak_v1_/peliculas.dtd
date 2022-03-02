@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE peliculas [
+<!ELEMENT peliculas (pelicula+)>
+<!ELEMENT pelicula (titulo*, autor*, productor*, director*, interprete*, comentario*)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT productor (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT interprete (#PCDATA)>
+<!ELEMENT comentario (#PCDATA)>
+<!ATTLIST pelicula genero CDATA "">
+]>

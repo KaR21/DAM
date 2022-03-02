@@ -1,0 +1,4 @@
+XML,XSLR,XPATH AND DTD
+- How to show an image with XML
+- How to read an atributte in XML: @
+- How to put a link (href) in XML

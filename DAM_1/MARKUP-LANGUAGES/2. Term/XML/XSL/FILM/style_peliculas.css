@@ -1,0 +1,22 @@
+#erdian{
+	margin:auto;
+	width:900px;
+}
+
+table{
+	float:left
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+tr:hover{
+	background-color: rgb(144, 226, 201);
+}
+th {
+	background-color: #04AA6D;
+	color: white;
+	font-size: 21px;
+  }
