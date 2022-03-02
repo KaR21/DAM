@@ -1,0 +1,55 @@
+.kapa2 {
+  border: 1px outset rgba(6, 58, 141, 1);
+  background-color: rgba(246, 242, 187, 1);    
+  text-align: left;
+  width: 240px;
+  padding: 5px;
+}
+.kapa1{
+	background-color: rgba(5, 165, 213, 1);
+	border: 1px outset rgba(6, 58, 141, 1);
+	text-align: left;
+	width: 240px;
+	padding: 5px;
+	font-weight: bold;
+}
+.kapa3{
+	background-color: rgba(174, 232, 27, 1);
+	border: 1px outset rgba(114, 158, 4, 1);
+	text-align: left;
+	width: 240px;
+	padding: 5px;
+	font-weight: bold;
+}
+.kapa4 {
+  border: 1px outset rgba(6, 58, 141, 1);
+  background-color: rgba(246, 242, 187, 1);    
+  text-align: left;
+  width: 250px;
+}
+.kapa5 p:first-letter{
+	font-size: 40px;
+	color : rgba(54, 200, 13, 1);
+}
+html{
+	padding: 50px;
+}
+
+input[type=text] {
+	width: 30%;
+	border-width: 3px;
+	color: grey;
+	border: double;
+	padding: 6px;
+	margin: 8px;
+	box-sizing: border-box;
+}
+input[type=number] {
+	width: 30%;
+	border-width: 3px;
+	color: grey;
+	border: double;
+	padding: 6px;
+	margin: 8px;
+	box-sizing: border-box;
+}
