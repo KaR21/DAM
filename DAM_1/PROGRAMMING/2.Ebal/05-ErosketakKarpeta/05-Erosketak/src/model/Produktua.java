@@ -27,8 +27,8 @@ public class Produktua {
       }
 
       public String getStrKodea() {
-            return kodea.toString();
-            //IDOIAREN MODUA//return new String(kodea);
+            //return kodea.toString();
+            return new String(kodea);
       }
 
       public String getIzena() {
