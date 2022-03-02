@@ -1,0 +1,16 @@
+Eerosketakkudeatu
+1)create (datuak gehitu) (erosketa berria egin)
+2)read (datuak irakurri)beste menua
+3)update (aldatu irakurri)
+4)delete (ezabatu irakurri)
+0)irten
+
+---------------------------------------------
+1)erosketen zerrenda
+2)faktura osoa
+3)bezerorik onena
+4)helbidea ilatu
+5)epekako erosketen txostena
+0)menu nagusira itzuli
+----------------------------------------------
+menunagusiaerakutsi() metodoak aukera bidaliko du
