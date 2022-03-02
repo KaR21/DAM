@@ -62,4 +62,13 @@ public class Laukizuzena extends Puntua implements Marrazgarria {
       public void marraztu() {
             System.out.println(this.toString() + " laukizuzena GUI batean marraztua izan da.");
       }
+      
+      public boolean isInside(Puntua puntuBat) {
+            boolean barruan = false;
+            if((puntuBat.getX() >= this.getErpinBat().getX() && puntuBat.getX() <= this.getKontrakoErpina().getX()) && (puntuBat.getY() >= this.getErpinBat().getY() && puntuBat.getY() <= this.getKontrakoErpina().getY())){
+                  barruan = true;
+            }
+                     
+            return barruan;
+      }
 }

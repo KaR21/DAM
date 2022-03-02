@@ -32,16 +32,10 @@ public class Kutxa extends Laukizuzena {
       }
 
       public boolean isHandiagoa(Kutxa besteKutxaBat) {
-            int bolumena1,bolumena2, a1,a2, b1,b2;
+            double bolumena1,bolumena2; 
             
-            a1 = this.getKontrakoErpina().getY() - this.getErpinBat().getY();
-            a2 = besteKutxaBat.getKontrakoErpina().getY() - besteKutxaBat.getErpinBat().getY();
-            
-            b1 = this.getKontrakoErpina().getX() - this.getErpinBat().getX();
-            b2 = besteKutxaBat.getKontrakoErpina().getX() - besteKutxaBat.getErpinBat().getX();
-
-            bolumena1 = a1 * b1* this.getAltuera();
-            bolumena2 = a2 * b2* besteKutxaBat.getAltuera();
+            bolumena1 = this.getBolumena();
+            bolumena2 = besteKutxaBat.getBolumena();
             
             if(bolumena1 > bolumena2){
                   return true;
@@ -49,6 +43,17 @@ public class Kutxa extends Laukizuzena {
             else{
                   return false;
             }
+      }
+      
+      public double getBolumena() {
+            double bolumena, a, b;
+            a = this.getKontrakoErpina().getY() - this.getErpinBat().getY();
+            b = this.getKontrakoErpina().getX() - this.getErpinBat().getX();
+            bolumena = a * b* this.getAltuera();
+            return bolumena;
+      }
+      public double getErtzenLuzera(){ /////___________________________________________________________?????
+            return this.getY();
       }
 
 }
