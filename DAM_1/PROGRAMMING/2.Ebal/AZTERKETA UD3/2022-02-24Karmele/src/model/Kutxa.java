@@ -1,6 +1,6 @@
-
 package model;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
@@ -20,10 +20,6 @@ public class Kutxa extends Laukizuzena {
             return altuera;
       }
 
-      @Override
-      public String toString() {
-            return "altuera: " + altuera;
-      }
 
       @Override
       public void marraztu() {
@@ -32,28 +28,38 @@ public class Kutxa extends Laukizuzena {
       }
 
       public boolean isHandiagoa(Kutxa besteKutxaBat) {
-            double bolumena1,bolumena2; 
-            
+            double bolumena1, bolumena2;
+
             bolumena1 = this.getBolumena();
             bolumena2 = besteKutxaBat.getBolumena();
-            
-            if(bolumena1 > bolumena2){
+
+            if (bolumena1 > bolumena2) {
                   return true;
-            }
-            else{
+            } else {
                   return false;
             }
       }
-      
+
       public double getBolumena() {
             double bolumena, a, b;
-            a = this.getKontrakoErpina().getY() - this.getErpinBat().getY();
-            b = this.getKontrakoErpina().getX() - this.getErpinBat().getX();
-            bolumena = a * b* this.getAltuera();
+            a = Math.abs(this.getKontrakoErpina().getY() - this.getErpinBat().getY());
+            b = Math.abs(this.getKontrakoErpina().getX() - this.getErpinBat().getX());
+            bolumena = a * b * this.getAltuera();
             return bolumena;
       }
-      public double getErtzenLuzera(){ /////___________________________________________________________?????
-            return this.getY();
+
+      public double getErtzenLuzera() {
+            return Math.abs(this.getErpinBat().getY() - this.getKontrakoErpina().getY());
       }
 
+      public static Kutxa handiena(ArrayList<Kutxa> kutxak) {
+            Kutxa kutxaHandiena = kutxak.get(0);
+            for (int i = 0; i < kutxak.size(); i++) {
+                  if (kutxak.get(i).getBolumena() > kutxaHandiena.getBolumena()) {
+                        kutxaHandiena = kutxak.get(i);
+                  }
+            }
+
+            return kutxaHandiena;
+      } 
 }
