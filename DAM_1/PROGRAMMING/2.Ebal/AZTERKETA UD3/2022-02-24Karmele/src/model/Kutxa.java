@@ -1,5 +1,7 @@
 package model;
 
+import java.awt.Color;
+import java.awt.Graphics;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -22,7 +24,9 @@ public class Kutxa extends Laukizuzena {
 
 
       @Override
-      public void marraztu() {
+      public void marraztu(Graphics g) {
+            g.setColor(Color.blue);
+            g.fill3DRect(this.getLauErpinenArrayLista().get(0).getX(), this.getLauErpinenArrayLista().get(0).getY(), this.getLauErpinenArrayLista().get(1).getX(), this.getLauErpinenArrayLista().get(1).getY(), true);
             System.out.println("Oinarria: " + Arrays.toString(this.getLauErpinenArraya()) + " eta " + this.toString());
             System.out.println("Kutxa GUI batean marraztua izan da.");
       }
@@ -48,8 +52,11 @@ public class Kutxa extends Laukizuzena {
             return bolumena;
       }
 
-      public double getErtzenLuzera() {
-            return Math.abs(this.getErpinBat().getY() - this.getKontrakoErpina().getY());
+      public double[] getErtzenLuzera() {
+            double[] ertzak = new double[2]; 
+            ertzak[0] = Math.abs(this.getErpinBat().getY() - this.getKontrakoErpina().getY());
+            ertzak[1] = Math.abs(this.getErpinBat().getX() - this.getKontrakoErpina().getX());
+            return ertzak;
       }
 
       public static Kutxa handiena(ArrayList<Kutxa> kutxak) {

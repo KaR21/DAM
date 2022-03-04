@@ -1,5 +1,8 @@
-
 package model;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.util.Scanner;
 
 /**
  *
@@ -74,10 +77,27 @@ public class Puntua implements Marrazgarria {
       public String toString() {
             return "(" + x + ", " + y + ")";
       }
-
       @Override
-      public void marraztu() {
+      public void marraztu(Graphics g) {
+            g.setColor(Color.red);
+            g.fillOval(x, y, 4, 4);
+            g.drawString(this.toString(), x, y - 5);
             System.out.println(this.toString() + " puntua GUI batean marraztua izan da.");
       }
 
+      public void mugitu(int zenbat, String norantza) {
+            if (norantza == "gora") {
+                  this.setY(this.getY() + zenbat);
+            }
+            if (norantza == "behera") {
+                  this.setY(this.getY() - zenbat);
+            }
+            if (norantza == "ezkerrera") {
+                  this.setX(this.getX() - zenbat);
+            }
+            if (norantza == "eskuinera") {
+                  this.setX(this.getX() + zenbat);
+            }
+
+      }
 }

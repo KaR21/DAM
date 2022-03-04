@@ -10,10 +10,10 @@ public class Test3 {
         Kutxa k2 = new Kutxa(new Puntua(20,20),new Puntua(26,24),6);
         
         System.out.println("Kutxa handiena marraztuko dugu, hau da bolumen handiena daukana:");
-        if (k1.isHandiagoa(k2)){
+        /*if (k1.isHandiagoa(k2)){
             k1.marraztu();
         } else
            k2.marraztu();
-        
+        */
     }
 }

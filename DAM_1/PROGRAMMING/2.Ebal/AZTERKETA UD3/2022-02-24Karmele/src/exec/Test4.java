@@ -1,6 +1,7 @@
 package exec;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 import model.Kutxa;
 import model.Laukizuzena;
 import model.Puntua;
@@ -47,5 +48,14 @@ public class Test4 {
             kutxak.add(k6);
             kutxak.add(k7);
             System.out.println("Puntuak:" + (Kutxa.handiena(kutxak)) + ". Altuera: " + (Kutxa.handiena(kutxak)).getAltuera());
+            
+            Scanner in = new Scanner(System.in);
+            
+            System.out.println("Zenbat mugitu nahi duzu?");
+            int zenbat = in.nextInt();
+            System.out.println("Norantz mugitu nahi duzu?");
+            String norantza = in.next();
+            Puntua p1 = new Puntua(0,0);
+            p1.mugitu(zenbat, norantza);
       }
 }
