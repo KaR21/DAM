@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap_Form</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>What kind of cars do you want to see?</h2>
+  <p>Please enter a valid information:</p>
+  <form action="/action_page.php" class="was-validated">
+    <div class="form-group">
+      <label for="uname">Username:</label>
+      <input type="text" class="form-control" id="uname" placeholder="Enter username" name="uname" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <div class="form-group">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <br>
+    <div class="form-group">
+        <label for="pwd">Bodywork type:</label>
+        <br>
+        <input type="checkbox" id="sedan" name="bodywork_type" value="sedan">
+        <label for="sedan">Sedan</label><br>
+
+        <input type="checkbox" id="coupe" name="bodywork_type" value="coupe">
+        <label for="coupe">Coupe</label><br>
+
+        <input type="checkbox" id="roadster" name="bodywork_type" value="roadster">
+        <label for="roadster">Roadster</label><br>
+
+        <input type="checkbox" id="convertible" name="bodywork_type" value="convertible">
+        <label for="convertible">Convertible</label><br>
+
+        <input type="checkbox" id="4x4" name="bodywork_type" value="4x4">
+        <label for="4x4">4x4</label><br>
+
+        <input type="checkbox" id="sport" name="bodywork_type" value="sport">
+        <label for="sport">Sport</label><br>
+
+        <div class="invalid-feedback">Please fill out a field.</div>
+    </div>
+    <div class="form-group">
+        <label for="pwd">Fuel type:</label>
+        <br>
+        <input type="checkbox" id="gas" name="fuel_type" value="gas">
+        <label for="gas">Gas</label><br>
+
+        <input type="checkbox" id="diesel" name="fuel_type" value="diesel">
+        <label for="diesel">Diesel</label><br>
+
+        <input type="checkbox" id="plug-in_hybrid" name="fuel_type" value="plug-in_hybrid">
+        <label for="plug-in_hybrid">Plug-in hybrid</label><br>
+
+        <input type="checkbox" id="electric" name="fuel_type" value="electric">
+        <label for="electric">Electric</label><br>
+
+        <div class="invalid-feedback">Please fill out a field.</div>
+    </div>
+    <div class="form-group">
+        <label for="favcolor">Select your favorite color:</label>
+        <input type="color" id="favcolor" name="favcolor">
+    </div>
+
+    <!--<div class="form-group">
+        <label for="pwd">Color of the vehicle:</label>
+        <br>
+        <input type="radio" id="red" name="blue" value="red">
+        <label for="red">Red</label><br>
+        <input type="radio" id="green" name="blue" value="green">
+        <label for="green">Green</label><br>
+        <input type="radio" id="blue" name="blue" value="blue">
+        <label for="blue">Blue</label>
+        <div class="valid-feedback">Valid.</div>
+        <div class="invalid-feedback">Please fill out this field.</div>
+    </div>-->
+    <div class="form-group">
+        <input type="checkbox" id="air" name="air" value="Air-conditioning">
+        <label for="air"> Air-conditioning</label><br>
+        <input type="checkbox" id="Leather" name="Leather" value="Leather upholstery">
+        <label for="Leather"> Leather upholstery</label><br>
+        <input type="checkbox" id="rims" name="rims" value="Aluminum rims">
+        <label for="rims"> Aluminum rims</label>
+      </div>
+    <div class="form-group form-check">
+      <label class="form-check-label">
+        <input class="form-check-input" type="checkbox" name="remember" required> I agree on blabla.
+        <div class="valid-feedback">Valid.</div>
+        <div class="invalid-feedback">Check this checkbox to continue.</div>
+      </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+
+</body>
+</html>
+<!--https://www.bmw.es/es_ES/configurator.html?tl=sea-gl-BMW::VN::GOOGLE::MARCACOMBINADA::MARCA::BUSCADORES::RESTO_EX::122310-mix-miy-.-sech-BMW_MARCA_COMBO_Configurar_EX-.-e-personaliza%20tu%20bmw-.-.&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMKXhyBxM9laqoAyjtj8ZxkLJF4uchSkZgGwmEXgBEJpqOQrzZ3undhoCXOoQAvD_BwE-->
