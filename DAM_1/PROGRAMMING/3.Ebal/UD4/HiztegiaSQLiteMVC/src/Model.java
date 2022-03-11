@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -17,8 +16,8 @@ import java.sql.Statement;
  * @author elorza.karmele
  */
 public class Model {
-       private static final String DB = ":E:/Goi mailako zikloa/GitHub/DAM/DAM_1/PROGRAMMING/3.Ebal/UD4/HiztegiaSQLiteMVC/db/Hiztegia.db";
-      private static final String DBIzena = "Hiztegia.db";
+       private static final String DB = ":E:/Goi mailako zikloa/GitHub/DAM/DAM_1/PROGRAMMING/3.Ebal/UD4/HiztegiaSQLiteMVC/db/HiztegiaMCV.db";
+      private static final String DBIzena = "HiztegiaMCV.db";
       private static String taula = "terminoak";
 
       public Connection connect() {
@@ -29,7 +28,7 @@ public class Model {
                   // create a connection to the database
                   conn = DriverManager.getConnection(url);
 
-                  //System.out.println("Connection to SQLite has been established.");
+                  System.out.println("Connection to SQLite has been established.");
 
             } catch (SQLException e) {
                   System.out.println(e.getMessage());
@@ -40,7 +39,7 @@ public class Model {
       public void terminoakImprimatu() {
             String sql = "SELECT * FROM " + taula;
 
-            try (Connection conn = connect();
+            try (Connection conn = this.connect();
                     Statement stmt = conn.createStatement();
                     ResultSet rs = stmt.executeQuery(sql)) {
                   System.out.println("Datu basearen izena " + DBIzena + " izango da eta hurrengo datuak izango ditu:");
@@ -56,17 +55,15 @@ public class Model {
             }
       }
 
-      public int terminoaGehitu(String euskaraz, String gazteleraz) {
+      public void terminoaGehitu(String euskaraz, String gazteleraz) {
             String sql = "INSERT INTO " + taula + "(euskaraz,gazteleraz) VALUES(?,?)";
-
-            try (Connection conn = connect();
-                  PreparedStatement pstmt = conn.prepareStatement(sql)) {
+            try (Connection conn = this.connect();
+                    PreparedStatement pstmt = conn.prepareStatement(sql)) {
                   pstmt.setString(1, euskaraz);
                   pstmt.setString(2, gazteleraz);
-                  return pstmt.executeUpdate();
+                  pstmt.executeUpdate();
             } catch (SQLException e) {
                   System.out.println(e.getMessage());
-                  return 0;
             }
       }
 }

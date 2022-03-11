@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg1;
 
 /**
  *
@@ -11,12 +10,12 @@ package pkg1;
  */
 public class Maina {
 
-      public static void main(String args[]) {
+        public static void main(String args[]) {
 
-            View view = View.viewaSortuBistaratu();
+        View view = View.viewaSortuBistaratu();
 
-            Model model = new Model();
+        Model model = new Model();
 
-            Controller controller = new Controller(model, view);
-      }
+        Controller controller = new Controller(model, view);
+    }
 }

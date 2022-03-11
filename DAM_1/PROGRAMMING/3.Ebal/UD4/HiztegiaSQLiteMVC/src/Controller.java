@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg1;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -36,6 +35,7 @@ public class Controller implements ActionListener {
                   case "TXERTATU":
                         System.out.println("TXERTATU botoia sakatu duzu");
                         model.terminoaGehitu(view.jTextFieldEus.getText(), view.jTextFieldEsp.getText());
+                        model.terminoakImprimatu();
             }
       }
 }
