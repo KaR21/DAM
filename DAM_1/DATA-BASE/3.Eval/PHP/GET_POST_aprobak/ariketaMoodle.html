@@ -13,6 +13,10 @@
       label{
         margin-right: 50px;
       }
+
+      .error{
+        color: red;
+      }
     </style>
   </head>
   <body>
@@ -20,16 +24,23 @@
     <div class="container">
       <h2><u><b>What kind of cars do you want to see?</b></u></h2>
       <p>Please enter your choices:</p>
+      <p><span class="error">* required field</span></p>
       <form action="formularioaAutoak.php" method="post" class="was-validated">
         <div class="form-group"> 
           <label for="uname"><div class="font-weight-bold lead">Username:</div></label>
-            <input type="text" id="uname" placeholder="Enter username" name="uname">
+            <input type="text" id="uname" placeholder="Enter username" name="uname" pattern = "^[a-zA-Z].{1,128}" required>
+            <span class="error">*</span>
         </div> 
         <div class="form-group">
           <label for="pwd"><div class="font-weight-bold lead">Password:</div></label>
-          <input type="password" id="pwd" placeholder="Enter password" name="pswd">
-
+          <input type="password" id="pwd" placeholder="Enter password" name="pswd" required>
+          <span class="error">*</span>
         </div>
+        <div class="form-group"> 
+          <label for="uname"><div class="font-weight-bold lead">Age:</div></label>
+            <input type="number" id="age" placeholder="Age" name="age" min="18" required>
+            <span class="error">*</span>
+        </div> 
         <br>
         <div class="form-group">
           <label for="bodywork_type[]"><div class="font-weight-bold lead">Bodywork type:</div></label>
