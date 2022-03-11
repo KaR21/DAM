@@ -13,20 +13,29 @@ import java.awt.event.ActionListener;
  * @author elorza.karmele
  */
 public class Controller implements ActionListener {
-    private Model model;
-    private View view;
-    public Controller(Model model, View view) {
-        this.model = model;
-        this.view = view;
-        anadirActionListener(this);       
-    }    
-    private void anadirActionListener(ActionListener listener) {
-        //GUIaren konponente guztiei gehitu listenerra
-        view.jButtonGehitu.addActionListener(listener);        
-    }
-    @Override
-    public void actionPerformed(ActionEvent e) {
-        String actionCommand = e.getActionCommand();
-        //listenerrak entzun dezakeen eragiketa bakoitzeko. Konponenteek 'actionCommad' propietatea daukate
-        switch (actionCommand) {
-            case "GEHITU":
+
+      private Model model;
+      private View view;
+
+      public Controller(Model model, View view) {
+            this.model = model;
+            this.view = view;
+            gehituActionListener(this);
+      }
+
+      private void gehituActionListener(ActionListener listener) {
+            //GUIaren konponente guztiei gehitu listenerra
+            view.jButtonTxertatu.addActionListener(listener);
+      }
+
+      @Override
+      public void actionPerformed(ActionEvent e) {
+            String actionCommand = e.getActionCommand();
+            //listenerrak entzun dezakeen eragiketa bakoitzeko. Konponenteek 'actionCommad' propietatea daukate
+            switch (actionCommand) {
+                  case "TXERTATU":
+                        System.out.println("TXERTATU botoia sakatu duzu");
+                        model.terminoaGehitu(view.jTextFieldEus.getText(), view.jTextFieldEsp.getText());
+            }
+      }
+}

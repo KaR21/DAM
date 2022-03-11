@@ -17,11 +17,11 @@ import java.sql.Statement;
  * @author elorza.karmele
  */
 public class Model {
-       private static final String DB = ":E:/Goi mailako zikloa/GitHub/DAM/DAM_1/PROGRAMMING/3.Ebal/UD4/HiztegiaSQLite/db/Hiztegia.db";
+       private static final String DB = ":E:/Goi mailako zikloa/GitHub/DAM/DAM_1/PROGRAMMING/3.Ebal/UD4/HiztegiaSQLiteMVC/db/Hiztegia.db";
       private static final String DBIzena = "Hiztegia.db";
       private static String taula = "terminoak";
 
-      public static Connection connect() {
+      public Connection connect() {
             Connection conn = null;
             try {
                   // db parameters
@@ -37,7 +37,7 @@ public class Model {
             return conn;
       }
 
-      public static void terminoakImprimatu() {
+      public void terminoakImprimatu() {
             String sql = "SELECT * FROM " + taula;
 
             try (Connection conn = connect();
@@ -56,16 +56,17 @@ public class Model {
             }
       }
 
-      public static void terminoaGehitu(String euskaraz, String gazteleraz) {
+      public int terminoaGehitu(String euskaraz, String gazteleraz) {
             String sql = "INSERT INTO " + taula + "(euskaraz,gazteleraz) VALUES(?,?)";
 
             try (Connection conn = connect();
                   PreparedStatement pstmt = conn.prepareStatement(sql)) {
                   pstmt.setString(1, euskaraz);
                   pstmt.setString(2, gazteleraz);
-                  pstmt.executeUpdate();
+                  return pstmt.executeUpdate();
             } catch (SQLException e) {
                   System.out.println(e.getMessage());
+                  return 0;
             }
       }
 }

@@ -44,6 +44,7 @@ public class View extends javax.swing.JFrame {
             jLabelEsp.setText("Gazteleraz:");
 
             jButtonTxertatu.setText("Txertatu");
+            jButtonTxertatu.setActionCommand("TXERTATU");
 
             jButtonIrten.setText("Irten");
             jButtonIrten.addActionListener(new java.awt.event.ActionListener() {
@@ -128,12 +129,12 @@ public class View extends javax.swing.JFrame {
       /**
        * @param args the command line arguments
        */
-      public static void main(String args[]) {
+      /*public static void main(String args[]) {
             /* Set the Nimbus look and feel */
             //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
             /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
          * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-             */
+             
             try {
                   for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                         if ("Nimbus".equals(info.getName())) {
@@ -152,17 +153,26 @@ public class View extends javax.swing.JFrame {
             }
             //</editor-fold>
 
-            /* Create and display the form */
+            /* Create and display the form 
             java.awt.EventQueue.invokeLater(new Runnable() {
                   public void run() {
                         new View().setVisible(true);
                   }
             });
+      }*/
+      public static View viewaSortuBistaratu(){
+            View v = new View();
+        java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                v.setVisible(true);
+            }
+        });
+        return v;
       }
 
       // Variables declaration - do not modify//GEN-BEGIN:variables
       private javax.swing.JButton jButtonIrten;
-      private javax.swing.JButton jButtonTxertatu;
+      javax.swing.JButton jButtonTxertatu;
       private javax.swing.JLabel jLabel1;
       private javax.swing.JLabel jLabelEsp;
       private javax.swing.JLabel jLabelEus;
