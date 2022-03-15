@@ -36,10 +36,10 @@ public class View extends javax.swing.JFrame {
             jLabel1 = new javax.swing.JLabel();
             jLabelEus = new javax.swing.JLabel();
             jLabelEsp = new javax.swing.JLabel();
-            jButtonTxertatu = new javax.swing.JButton();
-            jButtonIrten = new javax.swing.JButton();
+            jButtonImprimatu = new javax.swing.JButton();
             jTextFieldEus = new javax.swing.JTextField();
             jTextFieldEsp = new javax.swing.JTextField();
+            jButtonTxertatu1 = new javax.swing.JButton();
 
             setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
             setBackground(new java.awt.Color(109, 179, 238));
@@ -51,19 +51,11 @@ public class View extends javax.swing.JFrame {
 
             jLabelEsp.setText("Gazteleraz:");
 
-            jButtonTxertatu.setText("Txertatu");
-            jButtonTxertatu.setActionCommand("TXERTATU");
-            jButtonTxertatu.addActionListener(new java.awt.event.ActionListener() {
+            jButtonImprimatu.setText("Imprimatu");
+            jButtonImprimatu.setActionCommand("IMPRIMATU");
+            jButtonImprimatu.addActionListener(new java.awt.event.ActionListener() {
                   public void actionPerformed(java.awt.event.ActionEvent evt) {
-                        jButtonTxertatuActionPerformed(evt);
-                  }
-            });
-
-            jButtonIrten.setText("Irten");
-            jButtonIrten.setActionCommand("IRTEN");
-            jButtonIrten.addActionListener(new java.awt.event.ActionListener() {
-                  public void actionPerformed(java.awt.event.ActionEvent evt) {
-                        jButtonIrtenActionPerformed(evt);
+                        jButtonImprimatuActionPerformed(evt);
                   }
             });
 
@@ -79,31 +71,39 @@ public class View extends javax.swing.JFrame {
                   }
             });
 
+            jButtonTxertatu1.setText("Txertatu");
+            jButtonTxertatu1.setActionCommand("TXERTATU");
+            jButtonTxertatu1.addActionListener(new java.awt.event.ActionListener() {
+                  public void actionPerformed(java.awt.event.ActionEvent evt) {
+                        jButtonTxertatu1ActionPerformed(evt);
+                  }
+            });
+
             javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
             getContentPane().setLayout(layout);
             layout.setHorizontalGroup(
                   layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                  .addGroup(layout.createSequentialGroup()
-                        .addGap(62, 62, 62)
-                        .addComponent(jLabel1)
-                        .addContainerGap(35, Short.MAX_VALUE))
                   .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGap(27, 27, 27)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                              .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                                    .addGap(27, 27, 27)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                          .addComponent(jLabelEsp)
-                                          .addComponent(jLabelEus))
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                          .addComponent(jTextFieldEus, javax.swing.GroupLayout.DEFAULT_SIZE, 231, Short.MAX_VALUE)
-                                          .addComponent(jTextFieldEsp)))
-                              .addGroup(layout.createSequentialGroup()
-                                    .addGap(86, 86, 86)
-                                    .addComponent(jButtonIrten)
-                                    .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                    .addComponent(jButtonTxertatu)))
+                              .addComponent(jLabelEsp)
+                              .addComponent(jLabelEus))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                              .addComponent(jTextFieldEus, javax.swing.GroupLayout.DEFAULT_SIZE, 231, Short.MAX_VALUE)
+                              .addComponent(jTextFieldEsp))
                         .addGap(49, 49, 49))
+                  .addGroup(layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                              .addGroup(layout.createSequentialGroup()
+                                    .addGap(62, 62, 62)
+                                    .addComponent(jLabel1))
+                              .addGroup(layout.createSequentialGroup()
+                                    .addGap(77, 77, 77)
+                                    .addComponent(jButtonImprimatu)
+                                    .addGap(67, 67, 67)
+                                    .addComponent(jButtonTxertatu1)))
+                        .addContainerGap(35, Short.MAX_VALUE))
             );
             layout.setVerticalGroup(
                   layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -118,19 +118,15 @@ public class View extends javax.swing.JFrame {
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                               .addComponent(jLabelEsp)
                               .addComponent(jTextFieldEsp, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 57, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 58, Short.MAX_VALUE)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                              .addComponent(jButtonTxertatu)
-                              .addComponent(jButtonIrten))
-                        .addGap(34, 34, 34))
+                              .addComponent(jButtonImprimatu)
+                              .addComponent(jButtonTxertatu1))
+                        .addGap(33, 33, 33))
             );
 
             pack();
       }// </editor-fold>//GEN-END:initComponents
-
-      private void jButtonIrtenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonIrtenActionPerformed
-            // TODO add your handling code here:
-      }//GEN-LAST:event_jButtonIrtenActionPerformed
 
       private void jTextFieldEusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextFieldEusActionPerformed
             // TODO add your handling code here:
@@ -140,9 +136,13 @@ public class View extends javax.swing.JFrame {
             // TODO add your handling code here:
       }//GEN-LAST:event_jTextFieldEspActionPerformed
 
-      private void jButtonTxertatuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonTxertatuActionPerformed
+      private void jButtonImprimatuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonImprimatuActionPerformed
             // TODO add your handling code here:
-      }//GEN-LAST:event_jButtonTxertatuActionPerformed
+      }//GEN-LAST:event_jButtonImprimatuActionPerformed
+
+      private void jButtonTxertatu1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonTxertatu1ActionPerformed
+            // TODO add your handling code here:
+      }//GEN-LAST:event_jButtonTxertatu1ActionPerformed
 
       /**
        * @param args the command line arguments
@@ -180,8 +180,8 @@ public class View extends javax.swing.JFrame {
       }*/
 
       // Variables declaration - do not modify//GEN-BEGIN:variables
-      private javax.swing.JButton jButtonIrten;
-      javax.swing.JButton jButtonTxertatu;
+      javax.swing.JButton jButtonImprimatu;
+      javax.swing.JButton jButtonTxertatu1;
       private javax.swing.JLabel jLabel1;
       private javax.swing.JLabel jLabelEsp;
       private javax.swing.JLabel jLabelEus;
