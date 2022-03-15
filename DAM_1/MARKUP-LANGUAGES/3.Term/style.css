@@ -1,0 +1,56 @@
+/*NAV BAR*/
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+	padding: 0;
+    margin: 0;
+    left: 0;
+    top: 0;
+    position: sticky;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: rgb(0, 119, 255);
+}
+  
+
+.active {
+	background-color: rgb(0, 119, 255);
+}
+
+/*NAV BAR*/
+
+/*ANIMATION*/
+.animation{
+    position: relative;
+    animation-name: walking;
+    animation-duration: 9s;
+    animation-iteration-count: infinite;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 51px;
+}
+
+@keyframes walking {
+    0%   {left:0px; top:0px;}
+    100%  {left:101%; top:0px;}
+}
+
+.animation img{
+    margin-top: 21px;
+}
+/*ANIMATION*/

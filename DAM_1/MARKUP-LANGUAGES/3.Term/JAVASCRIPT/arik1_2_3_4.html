@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>1,2,3,4.ariketak</title>
+        <script type="text/javascript">
+            /*Arik1*/
+            function idatzi(){
+                var izena = document.getElementById("izena").value;
+                var abizena = document.getElementById("abizena").value;
+                document.getElementById("kaixo").innerHTML="<h1>Kaixo " + izena + " " + abizena + " !</h1>";
+            }
+            /*Arik1*/
+            /*Arik2*/
+            function batuketa(){
+                var batuketa = parseInt((document.getElementById("zenb1").value )) + parseInt((document.getElementById("zenb2").value));
+                document.getElementById("batu").innerHTML="<h1>Batuketaren emaitza: " + batuketa + " !</h1>";
+            }
+            /*Arik2*/
+            /*Arik3*/
+            function biderketa(){
+                var biderketa = parseInt((document.getElementById("zenb1").value )) * parseInt((document.getElementById("zenb2").value));
+                document.getElementById("bidertu").innerHTML="<h1>Biderketaren emaitza: " + biderketa + " !</h1>";
+            }
+            function kenketa(){
+                var kenketa = parseInt((document.getElementById("zenb1").value )) - parseInt((document.getElementById("zenb2").value));
+                document.getElementById("kendu").innerHTML="<h1>Kenketaren emaitza: " + kenketa + " !</h1>";
+            }
+            function zatiketa(){
+                var zatiketa = parseInt((document.getElementById("zenb1").value )) / parseInt((document.getElementById("zenb2").value));
+                document.getElementById("zatitu").innerHTML="<h1>Zatiketaren emaitza: " + zatiketa + " !</h1>";
+            }
+            /*Arik3*/
+            /*Arik4*/
+            function berreketa(){
+                var berreketa = Math.pow(parseInt((document.getElementById("zenb3").value )), 2);
+                document.getElementById("berreketa").innerHTML="<h1>Berreketaren emaitza: " + berreketa + " !</h1>";
+            }
+            /*Arik4*/
+    
+        </script>
+    </head>
+    
+    <body>
+        <!--Arik1-->
+        <input type="text" id="izena" placeholder="Sartu zure izena"/>
+        <input type="text" id="abizena" placeholder="Sartu zure abizena"/><br>
+        <input type="button" value="Bidali" onclick="idatzi()">
+        <div id="kaixo"></div>
+        <!--Arik1-->
+        <br>
+        <br>
+        <!--Arik2-->
+        <input type="number" id="zenb1" placeholder="Sartu zenbaki bat"/>
+        <input type="number" id="zenb2" placeholder="Sartu beste zenbaki bat"/><br>
+        <input type="button" value="Batu" onclick="batuketa()">
+        <!--Arik2-->
+        <!--Arik3-->
+        <input type="button" value="Bidertu" onclick="biderketa()">
+        <input type="button" value="Kendu" onclick="kenketa()">
+        <input type="button" value="Zatitu" onclick="zatiketa()">
+        <!--Arik3-->
+        <!--Arik2-->
+        <div id="batu"></div>
+        <!--Arik2-->
+        <!--Arik3-->
+        <div id="bidertu"></div><br>
+        <div id="kendu"></div><br>
+        <div id="zatitu"></div><br>
+        <!--Arik3-->
+        <br>
+        <br>
+        <!--Arik4-->
+        <input type="number" id="zenb3" placeholder="Sartu zenbaki bat"/>
+        <input type="button" value="Berreketa" onclick="berreketa()">
+        <div id="berreketa"></div><br>
+        <!--Arik4-->
+
+    </body>
+</html>

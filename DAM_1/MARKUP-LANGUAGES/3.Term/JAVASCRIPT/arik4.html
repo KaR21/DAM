@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>1,2,3,4.ariketak</title>
+        <style>
+            #menua{
+                box-shadow: 10px solid grey;
+                box-shadow: 10px 10px 10px 10px grey;
+                border: 1px solid rgb(24, 24, 180);
+            }
+
+        </style>
+        <script type="text/javascript">
+            function respuesta(){
+                var respuesta = parseInt(document.getElementById("respuesta").value);
+                if(respuesta != 1 || respuesta != 2 || respuesta != 3 || respuesta != 4){
+                    alert("Has pulsado una tecla incorrecta");
+                }
+            }
+        </script>
+    </head>
+    
+    <body>
+        <div id="menua">
+            <h1>Elige una operación:</h1><br>
+            <h3>
+                1-Suma
+                <br>
+                2-Resta
+                <br>
+                3-Producto
+                <br>
+                4-División
+            </h3>
+            <input type="number" id="respuesta" placeholder="Escribe una respuesta valida"/>
+        </div>
+
+    </body>
+</html>
