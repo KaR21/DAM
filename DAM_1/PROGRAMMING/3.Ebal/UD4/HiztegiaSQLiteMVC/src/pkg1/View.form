@@ -105,6 +105,9 @@
         <Property name="text" type="java.lang.String" value="Txertatu"/>
         <Property name="actionCommand" type="java.lang.String" value="TXERTATU"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonTxertatuActionPerformed"/>
+      </Events>
       <AuxValues>
         <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="0"/>
       </AuxValues>
@@ -112,6 +115,7 @@
     <Component class="javax.swing.JButton" name="jButtonIrten">
       <Properties>
         <Property name="text" type="java.lang.String" value="Irten"/>
+        <Property name="actionCommand" type="java.lang.String" value="IRTEN"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonIrtenActionPerformed"/>
