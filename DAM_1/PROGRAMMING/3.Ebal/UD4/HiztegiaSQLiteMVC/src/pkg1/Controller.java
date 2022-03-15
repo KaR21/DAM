@@ -26,6 +26,7 @@ public class Controller implements ActionListener {
       private void gehituActionListener(ActionListener listener) {
             //GUIaren konponente guztiei gehitu listenerra
             view.jButtonImprimatu.addActionListener(listener);
+            view.jButtonTxertatu.addActionListener(listener);
       }
 
       @Override
@@ -36,9 +37,11 @@ public class Controller implements ActionListener {
                   case "TXERTATU":
                         System.out.println("TXERTATU botoia sakatu duzu");
                         model.terminoaGehitu(view.jTextFieldEus.getText(), view.jTextFieldEsp.getText());
+                        break;
                   case "IMPRIMATU":
                         System.out.println("IMPRIMATU botoia sakatu duzu");
                         model.terminoakImprimatu();
+                        break;
             }
       }
 }

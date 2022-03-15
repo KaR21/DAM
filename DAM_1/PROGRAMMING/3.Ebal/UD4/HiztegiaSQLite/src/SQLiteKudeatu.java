@@ -63,23 +63,20 @@ public class SQLiteKudeatu {
             }
       }
 
-      public static void terminoaAldatu(int id, String euskaraz, String gazteleraz) { //eztu itten??__________________________________________
-            String sql = "UPDATE " + taula + " SET euskaraz = ? , "
-                    + "gazteleraz = ? "
-                    + "WHERE id = ?";
+      public static void terminoaAldatu(int id, String euskaraz, String gazteleraz) {
+        String sql = "UPDATE terminoak SET euskaraz = ?, gazteleraz = ? WHERE id = ?";
 
-            try (Connection conn = SQLiteKudeatu.connect();
-                    PreparedStatement pstmt = conn.prepareStatement(sql)) {
+        try (Connection conn = connect();
+                PreparedStatement pstmt = conn.prepareStatement(sql)) {
 
-                  // set the corresponding param
-                  pstmt.setString(1, euskaraz);
-                  pstmt.setString(2, gazteleraz);
-                  // update 
-                  pstmt.executeUpdate();
-            } catch (SQLException e) {
-                  System.out.println(e.getMessage());
-            }
-      }
+            pstmt.setString(1, euskaraz);
+            pstmt.setString(2, gazteleraz);
+            pstmt.setInt(3, id);
+            pstmt.executeUpdate();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+    }
 
       public static void delete(int id) {
             String sql = "DELETE FROM " + taula + " WHERE id = ?";

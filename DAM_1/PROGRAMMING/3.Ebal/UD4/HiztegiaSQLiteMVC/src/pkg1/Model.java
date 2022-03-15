@@ -27,8 +27,6 @@ public class Model {
             try {
                   conn = DriverManager.getConnection(url);
 
-                  System.out.println("Connection to SQLite has been established.");
-
             } catch (SQLException e) {
                   System.out.println(e.getMessage());
             }
@@ -80,9 +78,7 @@ public class Model {
     
     
     public void terminoaAldatu(int id, String euskaraz, String gazteleraz) {
-        String sql = "UPDATE " + taula + "SET euskaraz = ? , "
-                + "gazteleraz = ? "
-                + "WHERE id = ?";
+        String sql = "UPDATE" + taula + "SET euskaraz = ?, gazteleraz = ? WHERE id = ?";
 
         try (Connection conn = this.connect();
                 PreparedStatement pstmt = conn.prepareStatement(sql)) {
