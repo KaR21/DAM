@@ -63,7 +63,7 @@ public class Model {
             }
       }
        public void terminoaEzabatu(int id) {
-        String sql = "DELETE FROM" + taula + "WHERE id = ?";
+        String sql = "DELETE FROM " + taula + " WHERE id = ?";
 
         try (Connection conn = this.connect();
                 PreparedStatement pstmt = conn.prepareStatement(sql)) {
@@ -78,7 +78,7 @@ public class Model {
     
     
     public void terminoaAldatu(int id, String euskaraz, String gazteleraz) {
-        String sql = "UPDATE" + taula + "SET euskaraz = ?, gazteleraz = ? WHERE id = ?";
+        String sql = "UPDATE " + taula + " SET euskaraz = ?, gazteleraz = ? WHERE id = ?";
 
         try (Connection conn = this.connect();
                 PreparedStatement pstmt = conn.prepareStatement(sql)) {
