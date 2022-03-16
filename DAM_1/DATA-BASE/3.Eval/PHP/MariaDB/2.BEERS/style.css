@@ -1,9 +1,9 @@
-.beers{
-    margin: auto;
+.beers, .taula{
+    margin-top: 100px;
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 50%;
-    height: 50%;
+}
+.beers img{
     border: 2px solid rgb(16, 223, 16);
 }
