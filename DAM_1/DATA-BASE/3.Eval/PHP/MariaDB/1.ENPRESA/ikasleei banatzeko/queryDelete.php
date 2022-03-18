@@ -22,7 +22,12 @@
 				while($erregistroa = mysqli_fetch_array($emaitza))
 				{	
 					
-					printf("<tr><td>&nbsp;%s</td><td>&nbsp;%s&nbsp;</td></tr>", $erregistroa["langile_ID"],$erregistroa["langile_izena"]);
+					printf("<tr>
+					<td>&nbsp;%s</td>
+					<td>&nbsp;%s&nbsp;</td>
+					<td><a href='delete.php?lang_identifikatzailea=%s'><img src='rubish.png' width='50px' height='50px'/></a></td>
+					</tr>", 
+					$erregistroa["langile_ID"],$erregistroa["langile_izena"], $erregistroa["langile_ID"]);
 				}
 				mysqli_free_result($emaitza);
 				mysqli_close($link);
