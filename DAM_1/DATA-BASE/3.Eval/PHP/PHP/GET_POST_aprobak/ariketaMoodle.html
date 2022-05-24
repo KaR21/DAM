@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bootstrap_Form</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+      label{
+        margin-right: 50px;
+      }
+
+      .error{
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+      <h2><u><b>What kind of cars do you want to see?</b></u></h2>
+      <p>Please enter your choices:</p>
+      <p><span class="error">* required field</span></p>
+      <form action="formularioaAutoak.php" method="post" class="was-validated">
+        <div class="form-group"> 
+          <label for="uname"><div class="font-weight-bold lead">Username:</div></label>
+            <input type="text" id="uname" placeholder="Enter username" name="uname" pattern = "^[a-zA-Z].{1,128}" required>
+            <span class="error">*</span>
+        </div> 
+        <div class="form-group">
+          <label for="pwd"><div class="font-weight-bold lead">Password:</div></label>
+          <input type="password" id="pwd" placeholder="Enter password" name="pswd" required>
+          <span class="error">*</span>
+        </div>
+        <div class="form-group"> 
+          <label for="uname"><div class="font-weight-bold lead">Age:</div></label>
+            <input type="number" id="age" placeholder="Age" name="age" min="18" required>
+            <span class="error">*</span>
+        </div> 
+        <br>
+        <div class="form-group">
+          <label for="bodywork_type[]"><div class="font-weight-bold lead">Bodywork type:</div></label>
+            <br>
+            <input type="checkbox" id="sedan" name="bodywork_type[]" value="sedan">
+            <label for="sedan"><img src="sedan.png" width="150" height="150"></label>
+
+            <input type="checkbox" id="convertible" name="bodywork_type[]" value="convertible">
+            <label for="convertible"><img src="convertible.jpg" width="150" height="100"></label>
+
+            <input type="checkbox" id="4x4" name="bodywork_type[]" value="4x4">
+            <label for="4x4"><img src="4x4.jpg" width="120" height="60"></label>
+
+            <input type="checkbox" id="sport" name="bodywork_type[]" value="sport">
+            <label for="sport"><img src="sport.jpg" width="140" height="40"></label><br>
+
+        </div>
+        <div class="form-group">
+          <label for="fuel_type[]"><div class="font-weight-bold lead">Fuel type:</div></label>
+            <br>
+            <input type="checkbox" id="gas" name="fuel_type[]" value="gas">
+            <label for="fuel_type[]">Gas</label><br>
+
+            <input type="checkbox" id="diesel" name="fuel_type[]" value="diesel">
+            <label for="fuel_type[]">Diesel</label><br>
+
+            <input type="checkbox" id="plug-in_hybrid" name="fuel_type[]" value="plug-in_hybrid">
+            <label for="fuel_type[]">Plug-in hybrid</label><br>
+
+            <input type="checkbox" id="electric" name="fuel_type[]" value="electric">
+            <label for="fuel_type[]">Electric</label><br>
+
+        </div>
+        <div class="form-group">
+          <label for="favcolor"><div class="font-weight-bold lead">Select your favorite color:</div></label>
+            <input type="color" id="favcolor" name="favcolor">
+        </div>
+
+        <div class="form-group">
+          <label for="extra[]"><div class="font-weight-bold lead">Select your extras:</div></label><br>
+            <input type="checkbox" id="extra" name="extra[]" value="Air-conditioning">
+            <label for="extra[]"> Air-conditioning</label><br>
+            <input type="checkbox" id="extra" name="extra[]" value="Leather upholstery">
+            <label for="extra[]"> Leather upholstery</label><br>
+            <input type="checkbox" id="extra" name="extra[]" value="Aluminum rims">
+            <label for="extra[]"> Aluminum rims</label>
+        </div>
+        <div class="form-group">
+          <label for="prize"><div class="font-weight-bold lead">Select your prize range:</div></label><br>
+          <select name="prize">
+            <option selected>--Please select a range--</option> 
+            <option>1000€- 2000€</option>  
+            <option>2000€ - 4000€</option>
+            <option>4000€ - 6000€</option>
+            <option>6000€ - 8000€</option>
+            <option>8000€ - 10000€</option>
+            </select>
+        </div>
+        <div class="form-group">
+          <label for="comment"><div class="font-weight-bold lead">Write here any other suggestion:</div></label><br>
+          <textarea rows="4" cols="50" name="comment">Enter text here...</textarea>
+        </div>
+
+        <div class="form-group form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="checkbox" name="remember" required> <div class="font-weight-bold">I agree all the terms.</div>
+          </label>
+        </div>
+        <button type="reset" class="btn btn-primary">Reset</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+
+  </body>
+</html>
